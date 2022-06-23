@@ -1,0 +1,190 @@
+#+TITLE: The Significance of Language Variation in /Aladdin/
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \renewcommand{\Large}{\normalsize}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: Essay2_NguyenEric
+#+LATEX_HEADER: \usepackage[style=verbose,backend=bibtex]{biblatex}
+#+LATEX_HEADER: \addbibresource{./essay-02.bib}
+
+The way people around the world speak varies greatly, such as differences in tone, register, and style.
+These differences in speech, especially those associated with pronunciation or grammar, are used as a basis upon which social judgments are formed (Macaulay 2006, 74).
+For example, so-called "correct" speech is associated with people of higher social status, whereas people of lower social status tend to not have "correct" speech (Macaulay 2006, 75).
+The story of Aladdin portrays the significance of these variations in language as shown in the conversation between Aladdin and Jafar when they first meet (YouTube).
+In the conversation, we see that Jafar appears as an old man in similar situation as Aladdin---they appear to both be prisoners, as Jafar tells to Aladdin, that he is also merely "a lowly prisoner" (YouTube).
+Because of his appearance as a old man and a prisoner, in addition to how he leverages language to gain Aladdin's respect, he is able to convince Aladdin to listen to him.
+Upon inspection of the the way each character speaks, we observe that Jafar's speech is fast, confident, and sinister which contrasts with Aladdin's soft and apprehensive tone.
+Respectively, the audience may infer that Jafar has malicious intentions and views Aladdin as inferior, while Aladdin is may appear innocent and coming from a very humble position.
+There are several linguistic features to consider in understanding how language affects the way the characters perceive one another and portraying the intentions of each character to the audience: (1) social class, (2) register, and (3) style.
+
+First, we consider the linguistic feature of /social class/ in the conversation between Aladdin and Jafar.
+The recognition of social class between the characters is necessary to establish a sense of familiarity---in this case both Aladdin and Jafar are presented as being in a very low social status.
+As mentioned before, it was Jafar's choice to portray himself as a prisoner to appeal to Aladdin in his situation and make Aladdin more comfortable and willing to listen to Jafar (Wikipedia).
+While Jafar presents himself to Aladdin as a prisoner, he also claims to have the answers to get out of the predicament in which Aladdin found himself in, telling Aladdin that "together we can be more" and that there is a cave of treasures that are perhaps even "enough to impress your princess" (YouTube).
+In his proposal, Jafar suggests Aladdin to work with him, reinforcing the idea that they are at the same social status.
+While Aladdin starts to object to the suggestion, Jafar emphasizes, "whoever has the gold makes the rules" (YouTube).
+Macaulay writes "In many situations it is important to make a good impression when first meeting a stranger, and the way one speakers may contribute significantly to the impression created" (2006, 75).
+In general, the language that Jafar uses in his initial introduction to Aladdin creates the impression that Jafar is trying to support Aladdin's interests as Jafar appears to be in the same spot as Aladdin, in terms of social class.
+
+Secondly, we consider the linguistic feature of /register/ in the conversation between Aladdin and Jafar.
+When we speak of register in linguistics, we refer to the way people use language based on the situation they are currently in.
+For example, people will often speak differently when they are with their friends than say, when they are speaking to a stranger.
+There are five different registers in linguistics: /frozen/, /formal/, /consultative/, /casual/ and /intimate/ registers (Herrman).
+In the case of Jafar and Aladdin, we see that Aladdin is initially using what seems to be a casual register until he encounters Jafar when he suddenly switches to a consultative register, which is the register often used between a superior and a subordinate---indeed, Jafar uses the same register.
+Accordingly, we may consider Jafar as the superior and Aladdin as the subordinate.
+We see how the consultative register allows the two to more easily talk to one another, where they use vocabulary such as "treasure", "gold", "princess", and "wonderful"---indeed, Macaulay suggests that each register "has its own vocabulary" (2006, 87).
+The linguistic register in the conversation between Aladdin and Jafar convey the intentions of each character---Jafar's intention to sell the idea of treasures to Aladdin and Aladdin's intention to listen to Jafar, if it means he will be back with the princess.
+
+Finally, we consider the linguistic feature of /style/ in the conversation between Aladdin and Jafar.
+Style in linguistics refers to differences in speech that do not significantly affect the meaning of the intended message, where the significance of differences is arbitrarily determined.
+The style of one's speech is determined by the speaker's choices.
+For example, when trying to get people to be quiet, one may choose to use the phrase "I wonder if you would be so kind as to lower your voices a little" to "Shut up!" (Macaulay 2006, 90)---indeed, both phrases share the same intention but the demeanor is obviously completely different.
+If we apply this same concept to the conversation between Jafar and Aladdin, we see how Jafar conveys his intention of obtaining the treasures by mentioning the princess, where he could have chosen not to mention the princess to Aladdin.
+Or perhaps we may consider how Jafar implies a sense of consent in the phrase, "Do we have a deal?" instead of, for example, saying "Follow me!" which might imply a inconsiderate connotation (YouTube).
+These stylistic choices in Jafar's language promotes a sense of common interest, which aligns with Macaulay's description of typical interactions, "Talking begins only when the pants feel at ease with each other" (2006, 89) as it helped Aladdin open up to working with Jafar.
+The stylistic choices in language encouraged Aladdin to talk while the ultimate intention was to persuade Aladdin to obtain the treasures for him.
+
+[[nocite:&herrmann_2015][herrmann_2015]]
+
+[[nocite:&enwiki:1084657671][enwiki:aladdin]]
+
+[[nocite:&yidaki][yidaki]]
+
+[[nocite:&macaulay][Macaulay]]
+
+[[printbibliography:]]
+
+* Topic 1 Thesis :noexport:
+
+There are several linguistic features to consider in understanding how language affects the way the characters perceive one another and portraying the intentions of each character to the audience: (1) social class, (2) register, and (3) style.
+
+* Description :noexport:
+
+Paper due: April 25, 2022, on Canvas at 11:59pm
+
+Please write on *one* of the following topics.
+Do not write two essays.
+
+** Topic 1
+
+View the following clip: http://www.youtube.com/watch?v=3AEkLXkDgWI
+
+In a 3 page, double-spaced, 12-point-font essay, discuss the relationship between dialect and character in this clip from the Walt Disney film Aladdin.
+
+Describe, in as much linguistic detail as you can, the dialect (including accent) of at least one of the characters in the clip.
+
+After doing so, describe how the dialect contributes to the character's role in the clip.
+
+How does speaking one dialect over another create, in the audience's mind, a more developed sense of who the character is, what their motivations might be, as well as their shortcomings?
+
+Use your readings to help you answer the question.
+
+** Topic 2
+
+Using at least three (3) of the readings from the second half of the term (week 9-present, and you may use more from previous weeks if you would like), discuss the ways in which language influences culture, and the ways in which culture influences language.
+
+By language, I mean everything from its component structures (syntax, morphology, etc.) to its rules of use.
+
+By culture, I mean everything from individual beliefs about the ways the world works, to larger institutions, like the military, universities, the government, political and economic systems, etc.
+
+Your essay should be about 3 pages in length, double-spaced, and use a 12-point-font.
+
+* In-text citations Chicago style :noexport:
+
+I expect you to use specific examples from your texts, which means that you will have to cite them and include a bibliography.
+You do NOT ned to have a cover page on this assignment.
+
+I suggest you cite a quotation you've taken from the text by using ([Author Last Name] [Date], [Page #]) at the end of the sentence (but before the final sentence punctuation) in which the quotation occurs.
+For example:
+
+#+begin_quote
+The unemployed of Denmark have had the right to request job related activities such as training or publicly supported work, but that right has recently become an obligation (Rosdahl and Weise 2001, 160).
+#+end_quote
+
+Or, if you've mentioned the name of the author in the sentence already, you can just use ([Date], [Page #]) at the end of the sentence.
+Your bibliography, which will not count towards the page limit, should look like this (the chicago Social Sciences style):
+
+#+begin_quote
+Author, Arthur, Brian Author and Cathy Author. Date of Publication. Title of work. Place of publication: Publisher.
+#+end_quote
+
+This is an example for multiple authors---obviously you can leave out the "Brian Author and Cathy Author" parts if dealing with a single author.
+Single space between lines.
+Indent all lines after the first.
+Leave blank those elements that are irrelevant or unavailable.
+If citing a chapter in an edited volume (when the chapter author and the book author are not the same) do this:
+
+#+begin_quote
+Schartz, Joel. 2001. The triump of liberalism. in The Empire State: A history of New York, edited by Milton M. Klein. Ithaca: Cornell University Press.
+#+end_quote
+
+* Relevant Course Material :noexport:
+
+** Week 9
+
+- TSA Ch.14 Social Class
+
+** Week 10
+
+- TSA Ch.16 Register
+- TSA Ch.17 Style
+
+** Week 11
+
+- TSA Ch.15 Written Language
+
+** Week 12
+
+- TSA Ch.25 Language Change
+- TSA Ch.26 The History of English
+- TSA Ch.27 Indo-European
+
+** Week 13
+
+- TSA Ch.29 Language and Thought
+* Topic 2 Thesis :noexport:
+
+Language influences culture in three different ways: (1) affecting how individuals perceive the world (2) affecting how institutions operate and (3) affecting the interaction between individuals and institutions.
+
+* Essay 1 :noexport:
+
+In the last several centuries there have been many different hypotheses in how humans learn languages.
+Among the first guesses as to how humans learned how to speak was the theory that they would simply imitate sounds of other animals or natural sounds and then attach meaning to certain utterances (Hilton 2006, 22).
+Indeed, before the American linguist Noam Chomsky's proposal of the language acquisition device (now referred to as universal grammar), the prevalent theory of for language learning in children was that children learned language through imitation of adult speech and reinforcement through rewards and punishments; however, this method of learning languages falls short due to the sheer complexity of human languages (Macaulay 2006, 54).
+Instead, Chomsky's proposal of universal grammar argues that humans have an innate knowledge of learning languages during a certain "critical period" in their youth whichs gives them the ability to acquire linguistic competence, i.e., understand and produce utterances that have not been observed before (Macaulay 2006, 54).
+This leads to the constructivist hypothesis which suggests that children best learn languages through a constructivist approach of teaching, that is, through speaking with adults rather than other methods such as memorizing specific grammar and vocabulary (Ferus 2004, 2)
+In the video clip of the talking toddler, the toddler demonstrates the relevance of the constructivist hypothesis of language acquisition as they are (1) interested in communicating with the adults, (2) making use of other aspects of communication such as body language, tone of voice, facial expressions, etc., and (3) able to react to positive reinforcements by the adults.
+
+The first thing that stands out in out in the video clip of the talking toddler is that the toddler is /interested/ in engaging in the conversation with the adults.
+The context of the conversation revolves around things that are meaningful to the toddler (in this case, horses, grandma's house, and the pharmacy) and naturally, they are able to learn how to speak the language of the adults without the need for any reward and/or punishment as suggested by previous ideas of language learning (before universal grammar).
+Indeed, if language learning was motivated by rewards and punishments then it would be insufficient for children to fully develop an appreciation and understanding of learning to speak.
+Research has shown that infants intensely engage in the process of communicating with the surrounding adults from the moment they are born.
+For example, "At an early age infants will direct their gaze to the place that an adult is looking at" (Macaulay 2006, 55) showing just how attentive they are when it comes to communication, especially so early on in their life.
+It has also been observed that infants can clearly recognize when adults are trying to communicate with them and they attempt to understand what the adults are trying to communicate to them.
+Indeed, having an inherent interest in language learning goes a long way in a child's language acquisition process, starting from when they are infants up until they become fluent in their respective language(s).
+
+Secondly, what is noticeable in the conversation between the toddler and the adults is that the toddler makes heavy use of hand gestures, facial expressions, and other movements when speaking, i.e., the toddler uses body language in conjunction with her voice (spoken language).
+This aspect of the conversation emphasizes the distinction between the act of just speaking and the act of communicating---communicating does not merely involve the act of speaking, but rather it involves engaging all of the senses and requiring each of these components to be present in order to build a full context for individuals communicating with one another.
+In other methods of language learning such as repeating after the adult or memorization of specific grammar and vocabulary, body language (and other components of communication) are absent in the language learning process and therefore such methods of language learning are insufficient for language acquisition in children.
+Indeed, Macaulay agrees with this notion of language complexity, describing so-called "paralinguistic" features of communication, "There are all kinds of signals such as tone of voice, voice quality, facial expressions, and posture that often communicate more directly than any words that accompany them... To focus on the words alone is to ignore what may be the most important aspect of communication. For children finding out about a language, however, successful understanding of a general sense of what is being communicated can help to establish the meaning of words" (2006, 56).
+Clearly, there is so much more to consider when studying language acquisition than solely to consider the use of words, but also it is important to consider the context in which the communication is being done within and how that context supports the language acquisition process.
+
+Finally, it appears in the video clip that the toddler is able to give a reasonable response to the adults' requests and questions such as "What do you want your horse to be named?" or "What color is Dolly?" and imitate the adult when asked to kiss or wave goodbye to the camera.
+These kinds of reinforcements allow the conversation to move smoothly, keeping the child engaged and communicating while giving room for the child to think freely about how they should respond and practice producing utterances which they have not made before.
+In the memorization method of language learning, there is no room for children to think creatively and be exposed to new utterances outside of what is taught to them and therefore it is a severely restrictive and insufficient for language acquisition in children.
+Again, Macaulay agrees with the notion that children do not need to be taught language to such a precise degree, "Arguments about linguistic structure have used the grammaticality of sentences such as /Who did Sara ask why everyone likes cats?/ versus the ungrammaticality of /*What did Sara ask why everyone likes?/ It is difficult to imagine a real-life situation in which the first sentence would be asked and obviously nobody would attempt to ask the second" (2006, 56).
+Most elements in language learning can be acquired through casual conversation.
+
+
+
+[[nocite:&ferus][Ferus]]
+
+[[nocite:&hilton][Hilton]]
+
+[[nocite:&macaulay][Macaulay]]
+
+[[printbibliography:]]

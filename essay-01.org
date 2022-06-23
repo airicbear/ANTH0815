@@ -1,0 +1,122 @@
+#+TITLE: Language Acquisition Demonstrated in Talking Toddler
+#+AUTHOR: Eric Nguyen
+#+OPTIONS: toc:nil num:nil
+#+LATEX_HEADER: \usepackage[margin=1in]{geometry}
+#+LATEX_HEADER: \usepackage[doublespacing]{setspace}
+#+LATEX_HEADER: \renewcommand{\Large}{\normalsize}
+#+LATEX_HEADER: \frenchspacing
+#+LATEX_CLASS_OPTIONS: [12pt]
+#+EXCLUDE_TAGS: noexport
+#+EXPORT_FILE_NAME: Essay1_NguyenEric
+#+LATEX_HEADER: \usepackage[style=verbose,backend=bibtex]{biblatex}
+#+LATEX_HEADER: \addbibresource{./essay-01.bib}
+
+In the last several centuries there have been many different hypotheses in how humans learn languages.
+Among the first guesses as to how humans learned how to speak was the theory that they would simply imitate sounds of other animals or natural sounds and then attach meaning to certain utterances (Hilton 2006, 22).
+Indeed, before the American linguist Noam Chomsky's proposal of the language acquisition device (now referred to as universal grammar), the prevalent theory of for language learning in children was that children learned language through imitation of adult speech and reinforcement through rewards and punishments; however, this method of learning languages falls short due to the sheer complexity of human languages (Macaulay 2006, 54).
+Instead, Chomsky's proposal of universal grammar argues that humans have an innate knowledge of learning languages during a certain "critical period" in their youth whichs gives them the ability to acquire linguistic competence, i.e., understand and produce utterances that have not been observed before (Macaulay 2006, 54).
+This leads to the constructivist hypothesis which suggests that children best learn languages through a constructivist approach of teaching, that is, through speaking with adults rather than other methods such as memorizing specific grammar and vocabulary (Ferus 2004, 2)
+In the video clip of the talking toddler, the toddler demonstrates the relevance of the constructivist hypothesis of language acquisition as they are (1) interested in communicating with the adults, (2) making use of other aspects of communication such as body language, tone of voice, facial expressions, etc., and (3) able to react to positive reinforcements by the adults.
+
+The first thing that stands out in out in the video clip of the talking toddler is that the toddler is /interested/ in engaging in the conversation with the adults.
+The context of the conversation revolves around things that are meaningful to the toddler (in this case, horses, grandma's house, and the pharmacy) and naturally, they are able to learn how to speak the language of the adults without the need for any reward and/or punishment as suggested by previous ideas of language learning (before universal grammar).
+Indeed, if language learning was motivated by rewards and punishments then it would be insufficient for children to fully develop an appreciation and understanding of learning to speak.
+Research has shown that infants intensely engage in the process of communicating with the surrounding adults from the moment they are born.
+For example, "At an early age infants will direct their gaze to the place that an adult is looking at" (Macaulay 2006, 55) showing just how attentive they are when it comes to communication, especially so early on in their life.
+It has also been observed that infants can clearly recognize when adults are trying to communicate with them and they attempt to understand what the adults are trying to communicate to them.
+Indeed, having an inherent interest in language learning goes a long way in a child's language acquisition process, starting from when they are infants up until they become fluent in their respective language(s).
+
+Secondly, what is noticeable in the conversation between the toddler and the adults is that the toddler makes heavy use of hand gestures, facial expressions, and other movements when speaking, i.e., the toddler uses body language in conjunction with her voice (spoken language).
+This aspect of the conversation emphasizes the distinction between the act of just speaking and the act of communicating---communicating does not merely involve the act of speaking, but rather it involves engaging all of the senses and requiring each of these components to be present in order to build a full context for individuals communicating with one another.
+In other methods of language learning such as repeating after the adult or memorization of specific grammar and vocabulary, body language (and other components of communication) are absent in the language learning process and therefore such methods of language learning are insufficient for language acquisition in children.
+Indeed, Macaulay agrees with this notion of language complexity, describing so-called "paralinguistic" features of communication, "There are all kinds of signals such as tone of voice, voice quality, facial expressions, and posture that often communicate more directly than any words that accompany them... To focus on the words alone is to ignore what may be the most important aspect of communication. For children finding out about a language, however, successful understanding of a general sense of what is being communicated can help to establish the meaning of words" (2006, 56).
+Clearly, there is so much more to consider when studying language acquisition than solely to consider the use of words, but also it is important to consider the context in which the communication is being done within and how that context supports the language acquisition process.
+
+Finally, it appears in the video clip that the toddler is able to give a reasonable response to the adults' requests and questions such as "What do you want your horse to be named?" or "What color is Dolly?" and imitate the adult when asked to kiss or wave goodbye to the camera.
+These kinds of reinforcements allow the conversation to move smoothly, keeping the child engaged and communicating while giving room for the child to think freely about how they should respond and practice producing utterances which they have not made before.
+In the memorization method of language learning, there is no room for children to think creatively and be exposed to new utterances outside of what is taught to them and therefore it is a severely restrictive and insufficient for language acquisition in children.
+Again, Macaulay agrees with the notion that children do not need to be taught language to such a precise degree, "Arguments about linguistic structure have used the grammaticality of sentences such as /Who did Sara ask why everyone likes cats?/ versus the ungrammaticality of /*What did Sara ask why everyone likes?/ It is difficult to imagine a real-life situation in which the first sentence would be asked and obviously nobody would attempt to ask the second" (2006, 56).
+Most elements in language learning can be acquired through casual conversation.
+
+
+
+[[nocite:&ferus][Ferus]]
+
+[[nocite:&hilton][Hilton]]
+
+[[nocite:&macaulay][Macaulay]]
+
+[[printbibliography:]]
+
+* Thesis :noexport:
+
+In the video clip of the talking toddler, the toddler demonstrates the relevance of the constructivist hypothesis of language acquisition as they are (1) interested in communicating with the adults, (2) making use of other aspects of communication such as body language, tone of voice, facial expressions, etc., and (3) able to react to positive reinforcements by the adults.
+
+* Description :noexport:
+
+Paper due: Feb 27, 2022 @ 11:59pm
+
+Watch [[http://www.youtube.com/watch?v=vwiwkdGZDBQ]]
+
+In a three-page essay (double-spaced with one-inch margins and 12pt font), how does this child demonstrate the relevance of the constructivist hypothesis?
+What do you observe about how the child speaks, as well as how the child interacts with adults?
+Which elements of language acquisition and socialization do you see at work in this clip?
+
+In order to answer this question, you will have to show how the other models of language learning are insufficient.
+In answering the question, use specific examples from the child's speech (the video clip) and from lecture and readings.
+Remember to include a bibliography when you cite, as well as your name and the date on the first page.
+Citations in the body of the essay may be abbreviated if/ when using footnotes/endnotes; ('TSA' for The Social Art, 5Min for 5-Minute Linguist).
+You should cite external materials like websites or books besides your textbooks.
+Make sure to present a strong, clear argument, supported with evidence from the texts and your notes.
+Use a formal, academic style of writing with an introduction and conclusion.
+Points will be deducted for a lack of organization, improper or missing citations (including web pages) and references, as well as for vague, general, or unsupport arguments.
+You should submit the paper through Canvas in .docx, .doc, .pdf, or .txt format.
+
+* In-text citations Chicago style :noexport:
+
+I expect you to use specific examples from your texts, which means that you will have to cite them and include a bibliography.
+You do NOT ned to have a cover page on this assignment.
+
+I suggest you cite a quotation you've taken from the text by using ([Author Last Name] [Date], [Page #]) at the end of the sentence (but before the final sentence punctuation) in which the quotation occurs.
+For example:
+
+#+begin_quote
+The unemployed of Denmark have had the right to request job related activities such as training or publicly supported work, but that right has recently become an obligation (Rosdahl and Weise 2001, 160).
+#+end_quote
+
+Or, if you've mentioned the name of the author in the sentence already, you can just use ([Date], [Page #]) at the end of the sentence.
+Your bibliography, which will not count towards the page limit, should look like this (the chicago Social Sciences style):
+
+#+begin_quote
+Author, Arthur, Brian Author and Cathy Author. Date of Publication. Title of work. Place of publication: Publisher.
+#+end_quote
+
+This is an example for multiple authors---obviously you can leave out the "Brian Author and Cathy Author" parts if dealing with a single author.
+Single space between lines.
+Indent all lines after the first.
+Leave blank those elements that are irrelevant or unavailable.
+If citing a chapter in an edited volume (when the chapter author and the book author are not the same) do this:
+
+#+begin_quote
+Schartz, Joel. 2001. The triump of liberalism. in The Empire State: A history of New York, edited by Milton M. Klein. Ithaca: Cornell University Press.
+#+end_quote
+
+* Relevant Course Material :noexport:
+
+** Feb 4: Language Acquisition
+
+- TSA 2, 3
+
+** Feb 7: Language Acquisition Part 2
+
+- 5MIN 15, 25, 26, 34, 36
+
+** Feb 9: Language Acquisition Part 3
+
+- TSA Chapter 11
+- 5MIN 17, 22, 23
+
+** Feb 11: Language Socialization
+
+- TSA 23
+- 5MIN 31, 33, 62
