@@ -1,0 +1,1238 @@
+#+TITLE: ANTH0815 In-class Notes
+
+* Jan 19
+
+** Language is structured
+
+- Syntagmatically (forming the relationship between two or more sequential linguistic units)
+
+- Paradignmatically (forming mutually exclusive choices in the same syntactic role)
+
+** Syntagmatically
+
+"Polly wants a cracker."
+
+- "Polly" => Subject
+- "wants" => Verb
+- "a cracker" => Object
+
+English, like more than 1/3 of the world's languages, is SVO (Subject-Verb-Object).
+
+** Other languages are not SVO
+
+Fijian (VOS): "Auraiia o koko"
+
+Literally: Saw you (I) "I saw you"
+
+** Paradignmatic
+
+(Ronald Macaulay) (likes) (The Lemon Twigs).
+
+(He) (adores) (Tom Petty).
+
+(Chomsky) (dislikes) (improv comedy).
+
+(My pet hamster) (saw) (Paris in springtime).
+
+** 5-Minute Linguist Chapter 2
+
+- What's a polyglot? How many of you are polyglots?
+
+- Linguists overlap with many different fields:
+
+  + biology
+
+  + philosophy
+
+  + neuroscience
+
+  + anthropology
+
+** Too much emphasis on words?
+
+- The case of tonality---how intonation (and other things) affect meaning.
+
+- E.g., Yucatec Maya: miis (high) "broom" vs. miis (low) "cat."
+
+  - Or intonation in English
+
+- Language is a system of systems, in which words are just a part.
+
+** Basic structures of language
+
+1. Phonology
+
+2. Morphology
+
+3. Syntax
+
+4. Semantics
+
+5. Pragmatics
+
+* Jan 24: Language Systems, Phonology
+
+- Syntagmatic refers to "shared rules"
+
+- Paradignmatic refers to "choice of words"
+
+** Basic structures of language
+
+1. Phonology
+
+2. Morphology
+
+3. Syntax
+
+4. Semantics
+
+5. Pragmatics
+
+** The Building Blocks of Language Part 1: Phonology
+
+- Phonology: Study of the sound system of language
+
+- Phone/segment=actual speech sound produced by the vocal tract & perceived as a unique sound
+
+- Phoneme is perceived sound that signals a /difference in meaning/ when contrasted with another phoneme
+
+  + is a /mental/ construct
+
+** Phones and Phonemes
+
+- p vs. p^h (aspirated p)
+
+- These are different /phones/
+
+- But are they different phonomes in English?
+
+  + Allophone - variation of a phoneme
+
+- Compare with Korean:
+
+  + p^{h}ul -> 'fire'
+
+  + pul -> 'grass'
+
+- E.g., spit <-> pit
+
+  + The 'p' in pit is aspirated
+
+  + Notice the 'p' and the aspirated 'p' share the same spelling
+
+** Minimial Pairs
+
+- How about b vs. p?
+
+- minimal pair: made up of two forms (words, phrases, sentences), that differ in meaning, have one phonetic difference, but are the same in all other respects
+
+** Distinctive Features
+
+- A trait that distinguishes one phoneme from another
+
+- For example: Pin vs. bin
+
+  + - voice vs. + voice
+
+* Jan 26: Language Systems, Morphology/Syntax
+
+** The Building Blocks of Language Part 2: Morphology
+
+- Morphology: Study of forms of words
+
+  + The analysis of morphemes---the smallest meaningful or grammatical unit of a language
+
+  + For example: /-s/ to make a word plural.
+    /-s/ and "book" are morphemes---book+s
+
+  + Bound morpheme---meaningful grammatical unit that can not occur alone (e.g., /-s/)
+
+  + Free morpheme---meaningful grammatical unit that can occur alone (e.g., "book")
+
+** Affixes
+
+- a bound morpheme that can be added to a root
+
+  + Examples---prefixes (affixes added to the beginning of a root)
+
+    - e.g., inter-dental
+
+  + Suffixes---affixes added to the end of a root
+
+    - e.g., bring-ing
+
+  + Infixes---affixes inserted into the root
+
+    - e.g., BONTOC /um/='becoming'
+
+      + fikas "strong"---> f-um-ikas "becoming strong"
+
+** The Building Blocks of Language Part 3: Syntax
+
+- Syntax: Study of the way in which sentences are constructed from smaller units called /constituents/; how sentences are related to each other
+
+- 2 main constituents:
+
+  1. Subject
+
+  2. Predicate
+
+** Phrase Structure Rules
+
+- Phrase structure: rules showing grammatical relationships beteween phrasal categories
+
+- E.g., "Mary ate the hamburger"
+
+  + What are the elements of this sentence?
+
+    + What is the role of the first word in the sentence?
+      The 2nd?
+      3rd & 4th?
+
+- The verb is always the most important thing in syntax across all languages.
+
+** Syntactic rules for "Mary ate the hamburger"
+
+Let S = 'sentence'.
+Let NP = 'noun phrase'.
+Let VP = 'verb phrase'.
+Let DET = 'determiner', e.g., /the/, /a/, /an/
+Let N = 'noun'.
+Let V = 'verb'.
+
+- S->NP + VP
+
+- NP->(DET) N
+
+- VP->V + NP
+
+* Jan 28: Language Systems, Syntax continued
+
+** Last time: syntactic rules for "Mary ate the hamburger"
+
+S -> {
+    NP -> {
+        DET("∅"),
+        N("MARY")
+    }
+    VP -> {
+        V("ATE")
+
+        NP -> {
+            DET("THE"),
+            N("HAMBURGER")
+        }
+    }
+}
+
+** Try this
+
+"Julien bakes."
+
+S -> {
+    NP -> {
+        N("Julien")
+    }
+    VP -> {
+        V("BAKES")
+    }
+}
+
+"Julien bakes pies."
+
+S -> {
+    NP -> {
+        N("Julien")
+    }
+    VP -> {
+        V("BAKES")
+
+        NP -> {
+            N("PIES")
+        }
+    }
+}
+
+"Julien bakes pies in the lab."
+
+S -> {
+    NP -> {
+        N("Julien")
+    }
+    VP -> {
+        V("BAKES")
+
+        NP -> {
+            N("PIES")
+        }
+
+        PP -> {
+            PREP("IN")
+
+            NP -> {
+                DET("THE"),
+                N("LAB")
+            }
+        }
+    }
+}
+
+** Grammaticality & Ambiguity
+
+- When the word sequence conforms to the syntactic rules of a language
+
+  + e.g., *Fish give
+
+  + Fluent (competent) speakers can detect grammatically
+
+- Ambiguity--when more than one meaning results from either (a) lexical choice or (b) arrangement of words
+
+** Ambiguity: Why do these sentences have more than one meaning?
+
+- Lexical: "Fish are really smart. They are always found in schools."
+
+- Structural/Grammatical: "Polly saw the man with the binoculars"
+
+* Jan 31: Semantics
+
+** Last Time: Syntax
+
+- Phrase structure rules
+
+- Tree diagrams
+
+- Nature of linguistic cognition
+
+** The Building Blocks Language, part 4
+
+Semantics: the study of meaning in language.
+
+** Two major kinds of semantics
+
+- Lexical Semantics--concerns the meaning of words
+
+  + Lexicon--the mental dictionary each person has
+
+- Structural Semantics--concerns the meaning of utterances larger than the single word
+
+** Kinds of meaning
+
+- Referential
+
+  + describes the _referent_ of an utterance--the actual concrete item or concept to which a word refers
+
+  + E.g., "Your dog is barking." vs. "A dog is a fine pet for a family."
+
+  + Mermaids and unicorns--concepts vs. concrete existence
+
+- Sense--the extended meaning of a word or phrase that clarifies the referent
+
+  + "Ann's cool."
+
+** But do all words have a referent?
+
+- "He is the teacher of the class."
+
+  + /He/, /teacher/, /class/--yes
+
+  + /is/, /the/, /of/--no
+
+  + *"He teacher class"
+
+- Shifting referents--are referents that differ for each speaker and each sentence
+
+  + e.g., pronouns
+
+** Lexical Semantics: Hyponyms
+
+- Words that constitute a subclass of a more general word
+
+  + Tree; hyponyms--maple, birch, pine, etc.
+
+  + Car: coupe, sedan, SUV, etc.
+
+- These words share many of the same semantic components as the more general word
+
+** BUT, compare
+
+- "She is a real lady." vs. "She is a real woman."
+
+- So meaning is slightly different, even if the semantic properties are the same.
+
+  + Same denotation (referential meaning) but different connotation (affective or sense meaning)
+
+* Feb 04
+
+- Parts of the brain
+
+* Feb 07
+
+- Why Language Acquisition & not Language Learning?
+
+** The case for language innateness
+
+1. Behavior (language) appears before it is necessary for survival
+
+2. Does not appear as response to environment
+
+3. Neither a conscious decision nor result or formal education
+
+4. Behavior appears in a predictable seequence
+
+5. Behavior appears during a critical period; afterwards it will be difficult or impossible to learn
+
+** Innateness, I
+
+- Innateness hypothesis (e.g. Noam Chomsky, Eric Lenneberg)
+
+  + Children have innate capacity to differentiate phonemes (sounds), identify words, & process grammar
+
+  + Based on the idea of _Universal Grammar_
+
+    - Series of basic linguistic features hard-wired in the brain
+
+      + e.g. plural, non-plural, noun/verb
+
+** Innateness, II
+
+- Language Acquisition Device
+
+  + Theoretically, an area of hardwiring in the brains of children that drives them to acquire language
+
+- Critical period Hypothesis
+
+  + Language Acquisition Device is on a timer
+
+* Feb 09
+
+- Language acquisition
+
+** Several Hypotheses
+
+- Imitation hypothesis
+
+  + By interaction with adults
+
+  + But, imitation only accounts for logical, but sometimes incorrect forms, like *goed isntead of went
+
+  + Can't account for language acquisition in areas where data are incorrect or where children aren't spoken to
+
+    + In other words, where there is a *poverty of stimulus*
+
+- Reinforcement hypothesis--children learn language by positive reinforcement
+
+  + Parents respond to truth-value of statement, e.g., "Doggie go outside?"
+
+- Interactions (constructivist) hypothtesis
+
+  + A combination of 1 & 2
+
+** A Look at Stages of Language Acquisition
+
+1. Cooing--all vowel sounds (ahhh, oooh)
+
+2. Babbling--alternates consonants/vowels
+
+   1. Note that babies recognize sound distinctions adults do not
+
+3. Holophrases--one-word sentences
+
+   1. E.g., "Cat!" for "There is the cat" or "I want to pet the cat"
+
+4. Two-word stage
+
+   1. Two words in a grammatical relationship
+
+      1. agent-action---'Doggie run'
+
+      2. action-object---'push ball'
+
+      3. possessor-possession---'Mommy car'
+
+5. Telegraphic speech
+
+   1. An expansion of the two-word stage--"sit car now?"
+
+* Feb 11
+
+** Language Disorders
+
+- The term "Language Disorder" (or developmental dysphasia) has been used to refer to "any disruption in the learning of a native language"
+
+- Environmental factors
+
+  + Housing circumstances
+
+** Broca's & Wernicke's Aphasia
+
+- Damage to left hemisphere can cause aphasia (language disorder resulting from injury or trauma)
+
+- Broca's Aphasia: Problem with syntax and finding words
+
+- Wernicke's Aphasia: Fluent, but with jargon & nonsense words
+
+** Bilingualism: 2 Types
+
+- Simultaneous bilingualism
+
+  + When the child acquires two or more languages from birth
+
+  + E.g. Quebec, Canada
+
+    - Francophone & Anglophone
+
+** Sequential Bilingualism
+
+- When the person acquires another language after having begun to acquire a first language
+
+  + E.g. India, where English is a lingua franca, but may only be acquired in schools
+
+** Social Attitudes around bilingualism
+
+- Attitudes around language are cultural
+
+  + E.g. Swiss proudly speak German, French, Italian
+
+  + U.S. history of isolationism and assimilation leads to monolingualism
+
+    - 1929 series of studies suggest bilingualism lowers IQ
+
+    - But recent studies (Hoff 2001) show bilinguals are more creative problem solvers
+
+* Feb 16: Communication or Language
+
+** Last Time
+
+- Why do we talk?
+
+  + Biological basis for language
+
+  + Rapid acquisition of language by children
+
+** Bee "language"
+
+- Karl von Frisch "The 'Language' and Orientation of the Bees" 1956
+
+** But is it language?
+** Chracteristics of Communication:
+
+- According to Hockett 1960: expanded from Napoli
+
+  1. Mode of communication
+
+  2. Semantic
+
+  3. Pragmatic
+
+** Some Communication Systems have
+
+4. Interchangeability
+
+5. Cultural Transmission
+
+6. Arbitrariness
+
+7. Discreteness
+
+** Human Language alone appears to have
+
+8. Displacement
+
+* Feb 18
+
+** Last Time
+
+- Honeybees
+
+- Language vs. communication
+
+  + The importance of productivity and spatiotemporal displacement
+
+** Linguistic Ideology
+** What is Linguistic Ideology?
+
+- Refers to the values associated with particular ways of speaking & writing
+
+  + Cultural ideas of prestige, stigmatization are essential
+
+  + Ideology is often unconscious--taken as "fact"
+
+- Standard Language:
+
+  + "a set of ideas about what constitutes the best form of a language, the form which everyone ought to imitate"
+
+** Can one person's approach speech be better than another's?
+
+- Prescriptivist vs. Descriptivist approaches to language
+
+** Variety in Language
+** Communication and Distinctive Speech
+
+- Speech production and comprehension relies on minute changes in vocal apparatus
+
+- tongue and vocal cords make rapid and minute variations of position & tension
+
+- human ear is skillful in detecting slight variations in the sounds produced by the vocal tract
+
+** Different ways to study variation in language:
+
+- Sociolinguistics
+
+  + the study of how language mirrors social factors (like ethnicity, age, gender, social class) are related
+
+- Linguistic Anthropology
+
+  + Socially patterned variation in linguistic performance
+
+    - i.e. how do "culture" and "society" influence language?
+
+* Feb 21 Dialects
+
+** Last Time
+
+- Language ideology
+
+** Speech Community
+
+- Speech Community
+
+  + a group of people who live, work, socialize, and communicate with one another, using a dialect
+
+    + /Dialect/: Shared, unique characteristics of a speech community
+
+    + Dialects are often assumed to refer to syntax and lexicon, whereas accent refers  to phonological variation
+
+** Speech Community, 2
+
+- Dialects aren't something a few people possess (e.g. New Yorkers or Southerners)
+
+- Everyone belongs to a speech community, so we all speak a dialect
+
+- Some dialects do have greater prestige--Standard American English (SAE) or BBC English
+
+** Dialects vs. Languages
+
+- Distinction between language and dialect is not always clear
+
+  + Mutual intelligibility
+
+- All languages, except the original "proto-language," were dialects at one time
+
+  + Example: French, Italian, Spanish, Portuguese and Romanian are descendants of the language spoken by the Romans, which was just a dialect of Latin
+
+- See Chapter 12, page 61, diagram 12.1, for some of the social dimensions of dialects
+
+** The role of geography
+
+* Feb 25 African American Vernacular English
+
+** Last Time
+
+- Pidgin---case study of a dialect and of language ideology
+
+** Overview
+
+- History
+- Phonology
+- Syntax (Grammar)
+- Lexicon
+- Socio-cultural issues
+
+* Mar 07 African American Vernacular English
+
+** History
+
+- African American Vernacular English (AAVE) a.k.a:
+
+  + African American English (AAE)
+
+  + Black English (Vernacular)
+
+  + African American Language
+
+  + Ebonics
+
+- AAVE refers to a variety of dialects spoken primarily
+
+** Problems with the labels "African American Language" & "Ebonics"
+
+- Problem:
+
+  + These terms can suggest different languages as opposed to dialects of English
+
+** Dialectologist View
+
+- 1920s-1940s--first scholarly analyses of AAVE
+
+- AAVE thought to originate in the South, as a variety of southern English
+
+- With migration out of the south, Black Americans carried AAVE into Chicago, Detroit, Philadelphia, New York, etc.
+
+  + This migration accounts for similarities across regions
+
+** Creolist View
+
+- Challenges dialectologist view
+
+- Traded AAVE back to West Africa, via the slave trade
+
+- As Hausa, Wolof, Bulu, Twi etc. were forced together, a pidgin language emerged
+
+- Eventually, the pidgin becomes a creole language
+
+  + creole: a more developed pidgin that is the primary language of an entire speech community
+
+- Increased contact between the creole and other forms of English resulted in decreolization and the beginning of AAVE
+
+- Proof: AAVE's resemblance to other creoles (Gullah)
+
+* Mar 09
+
+** Linguistic description of AAVE (Lippi-Green, etc.)
+
+- What are some linguistic features of AAVE that you read about?
+
+** Syntax
+
+- Absence of present tense copula---examples: is, are
+
+  + SAE: He's a great guy.
+    AAVE: He a great guy.
+
+- Different tense/aspect markers
+
+  + SAE: He is usually late.
+    AAVE: He be late.
+
+  + SAE: He's late (at the moment).
+    AAVE: He late.
+
+** Phonology
+
+- Simplification of voiced consonant clusters
+
+  + hand => /han/
+
+- Interdental fricatives (e.g. /th/) becomes stops (/t/ or /d/)
+
+  + that => /dat/
+
+** Lexicon
+
+- Associated (incorrectly) with the slang of teenagers/young adults
+
+  + phat, bustin' out, tubular
+
+  + Short-lived, like most slang
+
+  + Regionally restricted
+
+- Geographically wide-spread usages are interesting
+
+  + kitchen (curly hair at the nape of one's neck)
+
+* Mar 11 AAVE, 3
+
+** Last Time
+
+- Phonological, Syntactic, Lexical features of AAVE
+
+** Future Research
+
+- How does regional variation affect AAVE?
+
+** A problem
+
+- Difference between vernacular and mainstream can work against AAVE students in IQ and achievement tests
+
+  + Also, AAVE students' performance can be harmed by teachers who interpret AAVE differences as laziness or intellectual deficit
+
+** Possible Solutions
+
+- Linguists lead dialect-awareness workshops
+
+- Linguists develop exercises to improve bidialectal importance
+
+** Dialect Readers
+
+- Language production vs. language comprehension
+
+- West African data
+
+- Little test data, but the data are positive
+
+  + E.g., The Bridge Program:
+
+    #+begin_quote
+    6.2 month gain in score per 4 months of instruction (only 1.6 month gain per 4 months using standard methods)
+    #+end_quote
+
+- Dialect readeres abandoned, for economic and social reasons
+
+** Linguists and Policy Decisions
+
+- Tried to clear up public misunderstanding of Ebonics in the Oakland School Board case
+
+- Urban Minorities Reading Project
+
+  - Attempt to improve literacy schools of African American, Latino, and white students
+
+* Mar 14
+
+** A quick review
+
+- Language often thought of as an idealized system
+
+- BUT language is expressed by individual speakers
+
+- WHY do speakers of languages speak differently?
+
+  1. Region/Geography (dialects)
+
+  2. Social class
+
+** Development of Stratification
+
+- Neolithic (ca. 10,300 BP) farming villages were basically egalitarian societies, like the foraging societies that had preceded them
+
+- About 5,000 BP: in Southwestern Asia, Egypt, the Indus Valley (India), China, Mesoamerica (Valley of Mexico), and the Andes (Peru), humans independently developed _social stratification_
+
+  + A form of social organization in which people have unequal access to wealth, power, and prestige
+
+- Allows for some members of society to do things other than produce food
+
+** Complex Societies
+
+- Societies with large populations, _surplus production_, an extensive division of labor, and _occupational specialization_
+
+- Surplus production
+
+  + The production of amounts of food that exceed the basic subsistence needs of the population
+
+- Occupational Specialization
+
+  + Specialization in various occupations (e.g., weaving or pot making) or in new social roles (e.g., king or priest) that are found in socially complex societies
+
+** Class
+
+- A ranked group within a hierarchically stratified society whose membership is defined primarily in terms of wealth, occupation, or other economic criteria
+
+  + Owners/workers, upper-income/middle-income/lower-income
+
+- Involves the exercise of _power_
+
+  + The ability to influence others
+
+  + Contextual (not everyone has the same amount of power all the time)
+
+** TSA Chapter 14: Social Stratification
+
+- Social class/upbringing is directly correlated to one's language ability
+
+  + Differences in language between different social classes increase with age
+
+    - Glasgow children from different social classes at age 10 speak more alike than Glasgow adults
+
+    - Rise in parental income equals rise in SAT score
+
+    - Teachers often underestimate a student's potential
+
+** To Sum up Chapter 14 TSA:
+
+- Speech continues to mark prejudice
+
+  + Listeners often make judgments about the speaker's social status, job, education, race, personality, etc.
+
+    - E.g., New England postvocalic /r/ sound is dropped
+
+      + This doesn't make rhoticc more _or_ less correct
+
+  + No one variety of language is more logical than another
+
+* Mar 16 Register & Style
+
+** Situational Dialects or Registers
+
+- Register: styles of speech that are appropriate to the situation, the level of formality, and the person being spoken to
+
+- Lexical choice is often an indicator of formality e.g.
+
+  | French Origin | Anglo-Saxon Origin |
+  |---------------+--------------------|
+  | Perspire      | Sweat              |
+  | Abandon       | Leave              |
+  | Desire        | Want               |
+
+** Morphology & Register
+
+- SAE (Standard American English) often uses contractions to mark informality
+
+  + e.g. You should have vs. you should've
+
+** Pronoun & Verb Choices
+
+- What's the difference between:
+
+  + Como estás tu?
+
+  + Como está usted?
+
+- Informality vs. Formality
+
+- Social status
+
+** Syntax & Register
+
+- Placement of prepositions
+
+  + Compare: "To whom should I send it?" and "Who should I send it to?"
+
+- Deletion of auxiliary verbs (and sometimes the pronoun):
+
+  + "Are you going to class today?"
+
+  + "You going to class today?"
+
+  + "Going to class today?"
+
+** Standard English(es)
+
+- "Had you a good time last night?"
+
+- "My clothes need washed"
+
+- "Will I shut the door?"
+
+- "Did you have a good time last night?"
+  "My clothes need washing."
+  "Shall I shut the door?"
+
+** Slang
+
+- Slang words
+
+  + Words that are newly coined or that have never been fully accepted in formal speech
+
+- Clipping: TV, phone, fridge
+
+  + Can convey affect e.g. couch potato
+
+  + Can mark membership in a group, daddy-o
+
+    - E.g. cool cat (Harlem 1950's); Rad (California, 1980's)
+
+* Mar 23 Dysphemism/Gender
+
+** Last Time
+
+- Register/Situational dialect
+
+  + Formality and interlocutor status
+
+- Slang: novel or informal language
+
+  + Used to mark affect and as identity marker
+
+** What is Cockney Rhyming Slang?
+
+- Typically consists of two or three words
+
+- The last lexical item rhymes with the word holding the intended meaning
+
+- Often, in usage, the rhyme is often reduced to its first element.
+  It then becomes very difficult for outsiders unacquainted with the slang to understand.
+
+** Gender & Language
+
+- What's the difference?
+
+  + Sex: biological aspects of being male or female
+
+  + Gender: learned complex of masculine or feminine behaviors as part of culture
+
+** Gender in languages can be marked...
+
+- Hebrew
+
+  + Verbs are conjugated differently by males & females
+
+    |         | Males       | Females       |
+    |---------+-------------+---------------|
+    | I write | /ani kotƐv/ | /ani kotƐvƐt/ |
+
+    |              | Said to a female | Said to a male |
+    |--------------+------------------+----------------|
+    | you          | /at/             | /ata/          |
+    | How are you? | /ma ∫lomex/      | /ma ∫lomxa/    |
+
+** Gender in Carib
+
+|       | Females   | Males    |
+|-------+-----------+----------|
+| rain  | /kuyu/    | /kunobu/ |
+| canoe | /kuriala/ | /ukuni/  |
+
+** Gender differences in English
+
+- Men & women use the same lexicon and syntax
+
+- AND use the same varieties of informal, polite, and indirect speech
+
+- BUT differ in rate of use and circumstances use of polite or indirect forms
+
+* Mar 30 Writing Systems
+
+** Last Time
+
+- Gender in language
+
+  + gender vs. sex
+
+  + gender linguistically marked
+
+  + gender stylistically dependent
+
+- /The Greatest Invention/
+
+** Writing
+
+Writing: a graphic representation of units of speech
+
+- Writing systems are based on speech
+
+- Humans have been speaking for longer than they have been writing
+
+  + Endocranial casts from 2MYA suggest capacity for speech
+
+  + Oldest writing system is about 5200 years old
+
+- Speech is acquired. Writing is learned.
+
+** Logographic
+
+- Symbols stand for whole words or morphemes
+
+- Logogram
+
+  + written symbols that represent a concept or word without indicating pronunciation
+
+** Chinese Writing
+
+- Each logogram stands for a word or concept
+
+- Some meanings are represented by a combination of symbols
+
+** Syllabic Writing
+
+** Rebus Principle
+
+Exemplifies phonetization of symbols
+
+Logographic symbols come to represent sounds
+
+** What's a syllable?
+
+- Each symbol represents one syllable
+
+- Syllables have many shapes
+
+  + CV (to)
+
+  + CVC (dad)
+
+  + CCVC (crash)
+
+** Syllabic Writing Systems
+
+- Japanese
+
+  + 2 syllabic scripts: Katakana & Hiragana
+
+  + 46 basic symbols in each that represent a consonant and vowel pair
+
+** The trouble with graphemes
+
+- Alphaebtic: symbols represent single phonemes
+
+- 26 in English; 36 in Russian, 22 in Hebrew
+
+  + Ideally, one grapheme per phoneme
+
+  + r, v
+
+  + But
+
+    - /k/=kitchen, cook, exceed
+
+* Apr 04 Writing
+
+** Printing: Development & Importance
+
+- Before 1455 (in the West) printing was slow, because it was done by hand
+
+  + Library in Alexandria
+
+- Printing press allows for mass production
+
+- First presses were blocks of wood (China 868 CE)--called block printing
+
+- Moveable type--China, 1041 CE, and Gutenberg, 1455 CE
+
+- Spread of ideas, fueled Renaissance, Industrial Revolution
+
+** Computers
+
+- Decentralized
+
+  + Unlike Alexandria, knowledge is widely disseminated
+
+- Greater accessibility/greater manipulation
+
+- Computers will not replace writing--Additive nature of human culture.
+  But they will certainly change it, and how people relate to language.
+
+** Historical Linguistics: Terms
+
+- Synchronic: Language analyzed at one point in time
+
+- Diachronic: Language analyzed over time
+
+- Language Family: Group of languages derived from the same ancestral language
+
+- Proto-Language--ancestral parent language assumed to be the source of many languages (and some language families)
+
+  + unobserved
+
+** Proto-Indo-European (PIE)
+
+- Mother tongue of the modern Western European Languages, as well as Sanskrit, ancient Greek, and Latin--about 144 modern and extinct languages of Europe
+
+- Why did PIE change?
+
+  + Geographical Division
+
+  + Lanugage Contact (borrowing)
+
+  + Internal change (drift)
+
+- Denisovans
+
+** Two theories of language change
+
+- Family Tree Theory
+
+  + August Schleicher, 1871
+
+  + Language change is regular and similarity is "genetic"
+
+- Wave Theory
+
+  + Johannes Schmidt, 1872
+
+  + Gradual spread of language, like pebble in a pond
+
+** Types of Language Change
+
+* Apr 18 Linguistic Relativity
+
+** Linguistic Relativity (or Sapir-Whorf) Hypothesis
+
+** Language and Thought
+
+- One view: Language simply reflects culture:
+
+  + "to catch a train"
+
+- But what about words that don't match reality?
+
+  + Things=Nouns,Actions=verbs
+
+    - Lightning--a "thing" that is closer to an action
+
+** Language and Thought, 2
+
+- English: I ate dinner with my neighbor yesterday
+
+- Spanish: vecino (m)/vecina (f)
+
+** Yucatec Maya
+
+- English: Brother,Sister
+
+- Yucatec:
+
+  + Suku'un=older brother
+
+  + Kiik=older sister
+
+  + iitsin=younger sibling
+
+** Benjamin Lee Whorf (1897-1941)
+
+- Chemical engineer
+
+- Worked for Hartford Fire Insurance Company
+
+- Language and worldview extend beyond word association
+
+- Student of Edward Sapir
+
+** Benjamin Lee Whorf's Research
+
+- Linguistic relativity: Whether and to what extent structures of specific languages have an impact on the thought or behavior of those who speak them.
+
+- Method: Compare Standard Average European (SAE) to non-SAE languages
+
+** SAE vs. Hopi: SAE TIME
+
+- Time terms can take cardinal numbers and plural markers
+
+  + E.g. "10 days" just like "10 marbles"
+
+- Time is treated as a /count/ noun not a /mass/ noun
+
+  + count: can form a plural; can be used with indefinite article in the singular
+
+  + mass: can't be counted (form+'of'+substance)
+
+* Apr 22 Linguistic Relativity
+
+** Last Time
+
+- How do language structures affect habitual thinking and behavior?
+
+  + Linguistic Relativity Hypothesis
+
+** Why does time talk matter?
+
+- SAE Time:
+
+  + Linear
+
+  + Segmentable
+
+  + Time is counted, histories are written, interest is compounded daily
+
+- Hopi Time:
+
+  + Unmanifest world becomes manifest
+
+  + Wishes affect the material world
+
+  + Hopis don't record history the way we do
+
+** Whorf's Influence
+
+- Immediately after Whorf's Hypothesis (1940s-1960s) there were efforts to prove/disprove hypothesis
+
+- Effect of Chomsky
+
+- Today: Middle ground
+
+** Yucatec Numeral Classifiers
+
+- p'eel=inanimate
+
+- t'uul=animate
+
+- p'iit=bit or piece

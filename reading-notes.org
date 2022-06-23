@@ -1,0 +1,1713 @@
+#+TITLE: Week 2 Reading Notes
+
+* Week 2
+
+** TSA Ch.1 Give a Dog a Name
+
+#+begin_quote
+The world is full of obvious things which nobody by any chance ever observes.
+
+-- Sherlock Holmes, /The Hound of the Baskervilles/
+#+end_quote
+
+- A paradox: people know extremely little about the nature of language
+
+- Linguists in general have been mainly interested in the abstract nature of linguistic structure
+
+  1. This leads to remarkable discoveries about the nature of language, but requires technicial knowledge to appreciate their significance
+
+  2. In recent years, linguists have started to look at the ways in which people use language, and many of their findings are more accessible to the lay public
+
+- This book attempts to summarize some results of both kinds of linguistic scholarship in a form that ordinary readers can understand
+
+- Where to begin?
+  Language is nearly as omnipresent as the air we breate, yet it's difficult to tell much about the character of the atmosphere by looking at it.
+  Consider: where does language draw attention to itself?
+
+  + When someone speaks differently from us, e.g., using a "foreign accent"
+
+  + When someone makes a pun (e.g., Q: /What do you get when you pour hot water down a rabbit hole?/ A: /Hot cross bunnies/)
+
+  + When someone points out an ambiguity (e.g., /Visiting relatives can be a nuisance/)
+
+  + When someone makes a joke
+
+- Gary Larson Cartoon example: each cartoon shows two pictures
+
+  + The first cartoon entitled "What we say to dogs" shows a man shouting:
+    "Okay, Ginger! I've had it! You stay out of the garbage! Understand, Ginger? Stay out of the garbage, or else!"
+
+    The picture below entitled "What they hear" shows the man's words as:
+    "Blah blah blah GINGER blah blah blah blah blah blah blah GINGER blah blah blah blah blah..."
+
+  + The second cartoon shows a woman addressing similar remarks to a cat but in this case what the cat hears is blank
+
+  + Why do we act as though the dog can recognize their name?
+
+    - Possible reasons:
+
+      1. Sharply: for a reprimand or prohibition
+
+      2. Gently: for comfort
+
+    - Suggestion: we want them to be more like us, to be almost human
+
+  + Points to be made from this example:
+
+    1. We behave toward other people the way we do toward our dogs, i.e., we expect them to understand what we have said in the way that we mean it
+
+    2. We probably attach more importance to words than is justified
+
+    3. Language is only part of the communication
+
+    4. *Most important point*
+       The dog almost certainly does not notice details of the signal
+
+       + For English speakers, there's an important difference between, say, /walkies/ and /talkies/, /will/ and /till/, and /wool/ and /tool/
+
+         - These words aren't different because of their meaning but because of the arrangement of letters/sounds
+
+       + The essence of human language is that it uses sounds that have no meaning in themselves to distinguish groups of these sounds that can have an associated meaning
+
+       + Linguists call the sounds that can be used for this purpose /phonemes/
+
+         - Each language has its own set of phenomes and its rule for combining them into sequences
+
+       + Linguists call the groups of sounds that have an associated meaning /morphemes/
+
+         - Many morphemes are what we think of as words, but some morphemes are parts of words
+
+         - All human languages consist of sets of morphemes, which are made up of phonemes
+
+- One of the ways in wh ich the nature of language becomes clearer is by looking at what children do and what happens to them as they progress from being /infants/ (literally "nonspeaking" from the Latin participle /fans/ "speaking" and the negative prefix /in-/) to being fluent speakers who can use the language in all its marvelous variety and for an almost infinite number of purposes
+
+  - There is a danger to this approach: it's hard to put outselves in the situation of imagining what it would be like to find out how language is organized without having that knowledge in advance
+
+  - A child's language is like a foreign language to adults
+
+** 5Min Ch.1 Why learn about language?
+
+#+begin_quote
+Have you ever wondered which language is the oldest?
+Or how babies learn to talk?
+#+end_quote
+
+- Language is universal, but theres a lot more to language than what we use in everyday life
+
+- This book attempts to address questions such as:
+
+  + Whatever happened to Esperanto?
+
+  + Can machines translate languages?
+
+  + Are some ways of speaking or writing better than others?
+
+- Big question: What is it that makes us human?
+
+  + Walking on two legs?
+
+  + Or living in society?
+
+  + Our ability to love and hate?
+
+  + All of the above are true, but not unique to humans.
+    It's language that distinguishes us from all other creatures.
+
+- Every human being is capable of language
+
+- Examples of different styles of speech:
+
+  + Formal
+
+  + Job-interview talk
+
+  + Street slang
+
+- Why can children learn languages so easily compared to adults?
+  Scientists that the capacity for language is genetic, but that much of that capacity is lost by adulthood.
+
+- The book discusses spoken language.
+  Reading and writing is another matter entirely.
+
+- There's a lot of variety in the world's tongues.
+  Thousands of languages on the planet, all descended from earlier languages that spread and changed and split up into dialects as people moved.
+  Given enough time, the separation of groups and the dialects they speak inevitably leads to the birth of new languages, the way French, Romanian, and Spanish grew out of the Latin spoken by the Romans.
+
+- One reason language is special is that it's a universal form of human creativity
+
+- Language is capable of expressing all of human thought, even thoughts about itself---which is what this book is all about
+
+** 5Min Ch.2 How many languages are there in the world?
+
+#+begin_quote
+How many languages are there in the world?
+Who counts them?
+Where are they spoken?
+Which have the most speakers?
+#+end_quote
+
+- How many languages are there?
+  It depends what you consider a language.
+
+- Where do you draw a line between a dialect and a language?
+
+- Where does one language leave off and another begin?
+
+- Sometimes it's easy: People in Iraq speak Arabic; their neighbors in Iran speak Farsi, a completely unrelated language
+
+- Other times it's hard: Swedes and Norwegians understand each other easily, but have different histories, customs, and governments, and they see themselves as two nations, speaking two languages, not one
+
+  + Similar for Malaysians and Indonesians; or Macedonians and Bulgarians
+
+- Serbs and Croatians understand each other's speech perfectly well, but they use two different writing systems
+
+- Oppositely, a billion people live in China, with at least seven mutually unintelligible forms of regional speech.
+  But they're reluctant to see themselves as separate nations, so they've clung to a unique ancient writing system that can be used anywhere in the country and lets them think of themselves as united by a single language.
+
+- According to researchers at /Ethnologue/, a comprehensive directory of the world's languages that released its fifteenth edition in 2005, it is estimated that there are around 7000 languages spoken or signed in the world today
+
+- About a quarter of the world's languages have fewer than a thousand speakers
+
+** 5Min Ch.7 Why do languages change?
+
+#+begin_quote
+Why is our English different from Shakespeare's?
+What can English spelling tell us about language change?
+What kinds of changes do languages undergo?
+Can we stop English from changing?
+#+end_quote
+
+- Have you ever left a Shakespeare performance feeling worn out from trying to understand what the characters were saying?
+
+  + The English Shakespeare knew was, in many ways, a different language from ours
+
+  + When Juliet asked 'Wherefore art thou Romeo?' she wasn't asking where Romeo was---after all, he's right there under the balcony!
+    /Wherefore/ meant /why/.
+    We don't use that word anymore since languages shed words all the time.
+
+- Languages are always changing
+
+- In English, our spelling often preserves the way the language was pronounced seven hundred years ago
+
+  + E.g., the word /name/ used to be pronounced 'NAH-muh' but we stopped saying the final /e/ and the AH sound (NAHme) drifted into an AY sound (NAYm)
+
+- Pronunciation is not the only area of impermanence: grammar changes, too
+
+  + English used to be a language where verbs at the end of the sentence came.
+    That is, a thousand or so years ago that's how you would have said that last sentence, with 'came' at the end.
+
+  + /You/ was only used to mean 'y'all'; for talking to an individual person, the word used was /thou/
+
+  + The 'generic' /you/---as in a sentence like 'You only live once'---the pronoun was /man/
+
+  + Now we just /you/ for all those meanings
+
+** 5Min Ch.9 How many kinds of writing systems are there?
+
+#+begin_quote
+How do writing systems differ?
+Which one is used the most?
+Could we use a system for English other than an alphabet?
+#+end_quote
+
+- Around the world, a little over thirty different writing systems are in official or widespread use today (counting all the different roman alphabets, like English and French and even Vietnamese as variants of a single one; likewise for all the varieties of Cyrillic and Arabic and so on)
+
+- Unlike languages, which are all basically alike because every language has to fit into everyone's brain, writing systems are human inventions, and about half a dozen different kinds have been devised over the past five thousand years
+
+- Before there were alphabets, there were scripts of the kind I call 'abjads'---where only consonants are written and vowels are left to be inferred
+
+* Week 3
+
+** TSA Ch.4 Prosodic Features
+
+#+begin_quote
+It ain't what you say but the way that'cha say it.
+
+---/Popular song by Sy Oliver and James Young/
+#+end_quote
+
+- Most factors that contribute to tone of voice have been investigated under the heading /prosodic features/ (or /suprasegmental features/)
+
+- One of these features is /length/ (duration) of a sound:
+
+  + Example (Tewa, Azteco-Tanoan language spoken in New Mexico):
+
+    - /si/ => "six", /si:/ => "intestine"
+
+    - /su/ => "arrow", /su:/ => "wild spinach"
+
+    - /te/ => "wagon", /te:/ => "tree"
+
+- /Closed syllables/ are syllables that end in a consonant
+
+- /Stress/ (or prominence) is the degree of force with which a sound or syllable is perceived to be uttered
+
+- Differences in pitch (or tone) can be used to distinguish words or morphemes (lexical tone) and to distinguish phrases or sentences (intonation)
+
+** TSA Ch.5 Learning About Words and Their Structure
+
+#+begin_quote
+I gotta use words when I talk to you.
+
+---T S. Eliot, /Sweeney Agonistes/
+#+end_quote
+
+- Example: /The sons raise meat/ vs. /The sun's rays meet/
+
+  + The hearer is not a passive receptor for a message trasmitted by the speaker.
+    The hearer has to interpret the signal and decide, for example, whether the third word is the verb /raise/ or noun /rays/.
+
+- Various types of morphemes:
+
+  + *Free morphemes* that cannot be divided up into meaningful parts, e.g., /dog/, /father/, /artichoke/, /rhinoceros/
+
+  + *Suffixes*, e.g., /-ly/, /-ment/, and /-er/
+
+  + *Prefixes*, e.g., /un-/ and /dis-/
+
+- Example: the verb /employ/ can be used to create nouns /employer/, /employee/, and /employment/
+
+** TSA Ch.6 Discovering the Structure of Language: Syntax
+
+#+begin_quote
+It takes much time and many steps for a child to arrive at ideas which to us seem simple.
+
+---Hippolyte Taine, "Acquisition of Language by Children"
+#+end_quote
+
+- Children begin by producing utterances that consist of a single word, go on to two-word utterances, and gradually develop the ability to produce longer and more complex utterances
+
+- At the one-word stage:
+
+  + Children are particularly concerned with commenting on the presence or absence of people and things
+
+  + Children seem to distinguish people who can do things (agents) from the actions themselves and also from the things that can be acted upon (objects)
+
+- Two-word stage: as the child's vocabulary increases, combinations of two words begin to emerge
+
+  + The first constructions are likely to be those that draw attention to:
+
+    - Presence (/There doggie/)
+
+    - Absence (/No milk/)
+
+    - Recurrence (/More cookie/)
+
+  + Then constructions that involve people as
+
+    - Agents (/Daddy go/)
+
+    - Actions (/Dig hole/)
+
+    - Locatives (/Sit table/)
+
+  + Then constructions involving
+
+    - Possession (/Mommy hair/)
+
+    - Attribution (/Doggie sad/)
+
+- Three-word stage
+
+  + Language development proceeds at a rapid rate
+
+  + Sometimes called the telegraphic speech stage because of its similarity to the form of a telegram
+
+    - Since the cost of telegram was calculated on the number of words, it became a common practice to omit unimportant words while preserving the normal word order---this is what children at this stage do
+
+  + Gradually begin to use the omitted words and morphemes
+
+- In English the first grammatical morpheme to be regularly used is the progressive /-ing/ suffix as in /Daddy working/
+
+- In English, there are two /articles/ which accompany many nouns:
+
+  1. The definite article /the/
+
+  2. The indefinite article /a/an/
+
+** TSA Ch.7 More Syntax
+
+#+begin_quote
+Syntax is a faculty of the soul.
+
+---Paul Valery, /Analects/
+#+end_quote
+
+- Avoidance of repetition
+
+- Pronouns (e.g., /he/) allow us to replace long phrases (e.g., /elderly man with a long grey beard, a squint, and a limp carry a tattered umbrella/)
+
+- Note that the pronoun does not refer solely to the noun, but the entire noun phrase
+
+- The process of referring back to something said earlier is called anaphora
+
+- /My sister recently bought a very large house with a beautiful garden and so did my brother/
+
+  + /he/ and /so did/ are anaphoric expressions
+
+- /I/, /me/ and /you/ are called indexical expressions or deictic expressions which means they point to something (not anaphoric)
+
+- There are only a few auxiliaries in English:
+
+  + /be/ and /have/ (in all their forms); /can/, /could/, /may/, /might/, /must/, /shall/, /should/, /will/, /would/
+
+- When we want to check up on an assertion, we often add what is called a /tag question/
+
+  + /John is singing, isn't he?/
+
+  + /John isn't singing, is he?/
+
+- In order to form a tag question the speaker must
+
+  1) identify the subject and determine its number and gender (if singular)
+
+  2) find the auxiliary (if there is one)
+
+  3) identify the tense of the verb if there is no auxiliary
+
+  4) determine whether the statement is affirmative or negative
+
+- More tag question examples:
+
+  + /Mary and Peter are coming, aren't they?/
+
+  + /Your cousin is beautiful, isn't she?/
+
+  + /You and I know better, don't we?/
+
+  + /The news hadn't reached them, had it?/
+
+  + /You understand the question, don't you?/
+
+  + /They attended the meeting, didn't they?/
+
+- Tag questions are apparently simple construction yet requires an understanding of both pronoun and verbal anaphora and the English auxiliary system
+
+  + Given this complexity, it is remarkable that children begin to use tag questions by the age of four, though they will not fully master the process till much older
+
+** TSA Ch.8 Still More Syntax
+
+#+begin_quote
+Linguistics works continously with concepts forged by grammarians without knowing whether or not the concepts actually correspond to the constituents of the system of language.
+
+---Ferdinand de Saussure, /Course in General Linguistics/
+#+end_quote
+
+- Syntax is what governs the relationship between the structural units (noun phrases, verb phrases, and so on) in an utterance
+
+- /The boy next door loves the girl across the street/
+
+  - The verb: /loves/
+
+  - The subject of the verb: /the boy next door/
+
+  - The object of the verb: /the girl across the street/
+
+- The order subject-verb-object (SVO) is the basic order of these syntactic units in English
+
+- Instead of saying /A number 11 bus knocked John down/ we are more likely to say /John was knocked down by a number 11 bus/
+
+  + The construction in which the object in the first utterance becomes the subject in the second, is called the passive
+
+- Children have difficultly with utterances where the basic SVO word order is distorted
+
+- A relative clause is one that adds information about a noun rather in the way that an adjective does
+
+  + /The man who sold you that car must have been a crook/
+
+    - The relative clause is /who sold you that car/ and identifies the man you are talking about
+
+    - Relative clauses of this type are called restrictive relative clauses
+
+  + /John, who lives in the New Forest, has invited us down there for the weekend/
+
+    - The relative clause is /who lives in the New Forest/ identifying John's residence
+
+    - Nonrestrictive relative clauses do not need to identify their antecedent
+
+    - Nonrestrictive relative clauses are often set off by commas
+
+- The basic unit in syntax is the clause
+
+- Many utterances consist of a single clause, but there are also rules for combining clauses into larger units
+
+  + The simplest way is by using a coordinate conjunction, /and/, /but/, /so/, and /or/
+
+- Coordinate conjuction example:
+
+  + /It was late so I told him to go home/
+
+  + /I told him to go home because it was late/
+
+  + The difference is that the clause beginning with /because/ is a subordinate clause
+
+  + There are several different kinds of subordinate clause
+
+    - The use of subordinate clauses is particularly characteristic of written language, where they can be combined into extremely long sentences
+
+    - In speech there is seldom more than one subordinate clause and often coordinate clauses are used where a subordinate clause could have been used
+
+    - E.g., in making making a theat it is less common to say something like /If you do that, I'll kill you/; it is much more likely that the speaker would say something like /You do that and I'll kill you/
+
+- There are also a number of constructions with nonfinite verbs
+
+  + Finite verbs are those that are marked for tense
+
+    - /sings/ in /he sings/ and /is/ in /he is busy/ are in the present tense
+
+    - /sand/ in /he sang/ and /was/ in /he was busy/ are in the past tense
+
+  + Nonfinite verbs are infinitives (/to sing/ in /he likes to sing/) or gerunds (/singing/ in /he likes singing/) and they do not change when the tense of the finite verb changes (/he liked to sing when he was younger/)
+
+** TSA Ch.9 Semantics
+
+#+begin_quote
+A definition is the enclosing of a wilderness of ideas within a wall of words.
+
+---Samuel Butler, /Notebooks/
+#+end_quote
+
+- The most important aspect of language is meaning, which is mainly studied under the heading semantics
+
+- It is suggested that there are three factors that affect how a child interprets what an adult says
+
+  1. The child's knowledge of the language and understanding of the utterance
+
+  2. The child's estimate of what the adult wants
+
+  3. How the child perceives the situation that the adult is talking about
+
+- Traditionally the study of semantics has concentrated mainly on what might be called the dictionary maker's notion of meaning, that is, definitions that are paraphrases using different words.
+  In practice, this is only a part of the meaning that expressions have for speakers.
+
+** 5Min Ch.13 How do babies learn their mother tongue?
+
+#+begin_quote
+When do babies start learning to talk?
+How do they do it?
+Can babies learn any language they are exposed to?
+#+end_quote
+
+- The first problem babies face is finding the /units/ in the speech they hear.
+  Where does one word end and the next begin?
+
+- Having learned to distinguish words, babies need to figure out what they mean
+
+- Picture an oversize TV screen, split between two moving images:
+  on the left side, Cookie Monster is hugging Big Bird;
+  on the right, Big Bird is hugging Cookie Monster.
+  Babies watch the screen with rapt attention.
+  When they hear 'Where's Big Bird hugging Cookie Monster?' they look more at the right side of the screen than at the left.
+  This means that babies, amazingly enough, are already using /grammar/, the order of the words in English, to figure out who's doing what to whom---even if they aren't saying much at all.
+
+- So here's a paradox: Babies can't tie their shoes or be left alone for more than thirty seconds, and yet they're like sponges when it comes to learning languages.
+
+** 5Min Ch.14 Do animals use language?
+
+#+begin_quote
+Do animals talk among themselves?
+If so, what systems do they use?
+And how do they differ from human language?
+#+end_quote
+
+- What counts as language?
+
+- Human languages have well-defined characteristics
+
+  1. They are systematic; that is, they all have rules that we call grammar
+
+  2. They are innate; children are born hard-wired to acquire language
+
+  3. 'Displacement'---humans can talk about objects that aren't present
+
+- Primates can learn language to some extent; but even if animals have such a capacity, they do not use it among themselves.
+  There seems to be no chimpanzee grammar in the jungle.
+  Nor is there evidence that animal communication systems can express new ideas, a key feature of human language.
+  Language remains the most profound distinction between animals and humans.
+
+* Week 4
+
+** 5Min Ch.4 What was the original language?
+
+#+begin_quote
+When did language begin, and how?
+What language did the earliest humans speak?
+#+end_quote
+
+- Back when supernatural explanations were in fashion, you could just say that language was a gift granted to humans when they first appeared in the world
+
+- Beginning in the 18th and 19th centuries emerged the science of Historical Linguistics
+
+  + Practitioners have identified relationships among existing languages and shown how they fit into 'family trees' reflecting thousands of years of changing and splitting from previously existing languages
+
+- In many cases, these language genealogies point back to ancestral languages that no longer exist
+
+- Historical linguists have developed a method of reconstructing those long-dead languages from clues surviving in their descendants
+
+  + Almost all of them believe it allows valid deductions about languages whose descendants have been separated for up to above five to seven thousand years
+
+  + Some think that it's possible to look, cautiously, even further into the past
+
+  + Most, though, believe that languages that separated for ten thousand or more years have changed too much for the method to be reliable; and modern humans have been around five or ten times that long
+
+- This leaves a large gap to bridge:
+
+  What happened to change wordless early humans, or near-humans, into the talkers that we've since become?
+
+  And what was their speech like?
+
+- It was suggested early people invented speech by imitating animal calls or other natural sounds, and, over time, attaching meaning to them; or by attaching meaning to their own inarticulate grunts of emotion or exertion
+
+  + Guesses like these are a legitimate step in scientific inquiry if they generate hypotheses that can be verified, but there didn't seem to be any way of finding relevant concrete evidence
+
+  + Critics, even friendly ones, applied mocking names like 'the "bow-wow' theory', 'the "ding-dong" theory', 'the "pooh-pooh" theory', and 'the "yo-he-ho" theory'
+
+  + For several decades, the Origin of Language was an unfashionable field of study
+
+- Beginning around the last quarter of the twentienth century, though, increasing amounts of brainpower---and more and more /kinds/ of brainpower---have been devoted to the question, and interest is picking up
+
+- Paleontologists studying fossils and ancient artifacts have improved our chronology of humanity's early past, sharpening debate over /when/ language is most likely to have emerged:
+
+  + With the first tool-using members of genus /Homo/ some two million years ago?
+
+  + Or with the artistic flourishing that accompanieed the appearance of anatomically modern humans some 50,000 years ago?
+
+- Other researchers have looked for modern analogues to the earliest human language origins:
+
+  + Psychologists have intensely studied how infants make the transition from wordless creatures into talking children
+
+  + Primatologists have devised ingenious experiments to determine how much or how little human-like linguistic behavior apes can learn
+
+  + Neurologists and anatomists are making clearer to us just how extensively human language is enabled and limited by the human body and brain
+
+- The anatomists, in particular, have suggested that language was impossible until humans had both the right kind of vocal tract to produce speech sounds and the right kind of nervous system to control them
+
+  + One physical distinction between modern humans and all other animals, even chimpanzees and earlier humans, appears to be critical: a lowered larynx
+
+  + Your dog can eat his food in a few quick gulps, but he can't talk
+
+  + You can talk, but you can also choke from food lodged in your larynx
+
+  + The human ability to make speech sounds is not a bonus provided by the body systems designed for breathing, chewing, and swallowing---it's just the opposite:
+
+    - The lowered larynx (with associated changes in the pharynx and mouth) is a handcap to the usual animal uses of mouth and throat
+
+    - But on balance this handicap is far outweighted by the great survival value in speech
+
+    - You can talk---and participate in civilization---because you /can't/ wolf your food
+
+- It's unlikely that these multidisciplinary efforts will allow us to reconstruct what words our ancestors said, or what their speech sounded like
+
+  + But some interesting late twentieth-century research suggests that we may be able to know something about the /grammar/ of the earliest languages---how words came together to form sentences
+
+  + Within the past few centuries several new languages of a special kind have been born
+
+    - European colonists arriving in the third world communicated with their local laborers using pidgin languages, a kind of adult babytalk using a hodgepodge of words from different languages, strung together with a rudimentary grammar
+
+      + When children are raised speaking pidgin as their native language, they turn it into a full-fledged language called a creole, with a broader vocabulary and a more elaborate grammar
+
+      + Now here's the fascinating part:
+
+        Unrelated creole languages in places as far apart as Surinam, Haiti, Hawaii, and Papua New Guinea radically different vocabularies, but some researchers find their grammars very similar, suggesting that the human brain may be hardwired to create particular patterns of speech.
+
+        Could this be a clue to how the earliest languages worked?
+
+** 5Min Ch.8 Are pidgins and creoles real languages?
+
+#+begin_quote
+What's a pidgin language?
+Is creole more than just food?
+Are pidgin and creole the same thing?
+#+end_quote
+
+- /How una dé?/ /Uskain nius?/ These two greetings, the first from Nigeria and the second from Cameroon, both mean roughly 'Hi, what's happening?'
+
+  + Both use words from English, but combine them in new ways
+
+  + They're the kind of language we're using when we greet someone by saying 'long time no see,' or when we invite a friend to come have a 'look-see,' or use 'no can do' when something's not possible
+
+  + When we do that, what we're speaking is no longer English---it's a new language, based on English words but with simpler grammar and vocabulary
+
+  + 'Look-see' and 'no can do' come from a language once called /China Coast Pidgin English/, which was used by sailors and merchants throughout the Pacific
+
+  + But what kind of bird is this 'pidgin'?
+
+- Imagine for a moment that everyone reading this article spoke a different native language, and that the only English any of us knew was the result of a year or two of limited exposure somewhere earlier in our lives
+
+  + If we all got stranded on the proverbial desert island, we might well find that the only way we could communicate would be to use our bits of English with one another
+
+  + As the years went by, with no grammar books and no native speakers to correct us or teach us new words, we'd all develop survival skills in this way of talking, and we'd invent combinations that a true native speaker of English would barely recognize
+
+- A language formed like this---among people who share no native language and are forced to communicate using elements of one that none of them speaks well---is what linguists call a pidgin
+
+  + The word probably comes from South Sea traders' attempt to pronounce the word /business/
+
+  + Most pidgins do not form on desert islands; they are formed when speakers of different languages have to speak to one another using bits and pieces of a language imposed on them---for example as slaves, contract laborers, or itinerant vendors
+
+  + Pdigins have been used on slave plantations in the Americas, on South Pacific islands that imported laborers from widely scattered islands, and in Africa and the Pacific where urban marketplaces bring together people speaking a wide variety of languages
+
+- Pidgins start out as simplified languages, but something happens when children are born to pidgin-speaking parents
+
+  + Like children everywhere, as they grow they absorb the language they hear around them and make it their own
+
+  + Unlike other children, though, as they learn their parent's language they expand and transform it from a makeshift jargon into a full-fledged new language
+
+  + These new languages, spoken natively by the next generation in the family, are called /creole/ languages by linguists (although sometimes the name 'pidgin' continues to be used in non-specialist contexts)
+
+  + There are dozens of creole languages scattered around the world, derived from European languages such as English, French, and Portuguese, but also from Arabic, Swahili, and other non-European tongues
+
+  + English-based creoles are used in the South Pacific from Papua New Guinea to the Solomon Islands and northern Australia
+
+  + Gullah in South Carolina and Georgia and Hawaiian Pidgin are creole languages native to the U.S., while Cape Verde Portuguese Creole in Massachusetts and Haitian Creole in Miami and New York are among our country's immigrant languages
+
+- Creole languages have millions of speakers
+
+  + They aren't 'broken' versions of what you might think of as 'real' languages
+
+  + They have established grammars, they're taught in schools, and they're used in radio, television, and the press
+
+  + They even have their own names and may serve as official languages, such as Tok Pisin in Papua New Guinea, Bislama in Vanuatu, and Papiamentu in Aruba, Curaçao, and Bonaire
+
+  + The language used in the first sentence of this article is spoken in much of West Africa
+
+  + While many people mistakely refer to it as 'broken English', it's the language of African popular music and literature, and of novels by the Nobel laureate Wole Soyinka
+
+- Creoles and pidgins often include words and expressions that speakers of languages like English or French would recognize, but with very different meanings
+
+  + For example, /beef/ in West African Pidgin English refers to any animal whose meat can be eaten
+
+  + So a pig could be a 'beef'
+
+  + In Papua New Guinea the word /Meri/ (from the English name 'Mary') is a word for woman, any woman
+
+- Speakers of languages with long literary traditions sometimes laugh at creole languages, thinking of them---and their speakers---as inferior
+
+  + But that kind of viewpoint has no basis in fact
+
+  + Creoles are new languages, at most a few hundred years old, and deserve the same respect as the world's new nations, many of which also emerged through struggle
+
+- Article 1 of the United Nations Universal Declaration of Human rights, translated into Nigerian Pidgin English, begins:
+  #+begin_quote
+  Everi human being, naim dem born free and dem de equal for dignity and di rights wey we get, as human being.
+  #+end_quote
+
+- Speaking a creole with pride and dignity is one of those basic human rights
+
+** 5Min Ch.15 How does the brain cope with multiple languages?
+
+#+begin_quote
+Is there such as *too much* language learning?
+How does the brain deal with multiple languages?
+#+end_quote
+
+- Have you ever been faced with uncomfortable amounts of new or complicated information, and said something like 'I feel my head's going to explode?'
+
+  + One of the major aims of many of the chapters of this book is to encourage readers and their children to learn new languages
+
+- Resarchers today compare the brain at birth to a kind of ready-to-assemble computer kit: it comes with working components, but they have to be connected before you have a fully functioning computer
+
+  + In this view the brain comes with /readiness/ for language in general, but acquiring the actual sounds, words, and grammar of a particular language means growing new connections between neurons, the individual brain cells
+
+  + This connection-building is what happens as a toddler learns to associate the word 'dog' with a four-legged animal and 'milk' with what's in his drinking cup; or as another toddler learns the words 'perro' for the same animal and 'leche' for the same liquid
+
+- But you may wonder, if a child is hearing /both/ languages, will her brain mix them up and thereby hinder speech?
+
+  + Here's the comforting fact: the brain---especially in early childhood---has a huge, virtually inexhaustible capacity for making such connections
+
+  + The more talk children are exposed to in the first three years of life, the better their languages skills later
+
+  + In fact, children exposed to more than one language grow not only the connections that build vocabulary in each language; they also grow connections that help them sort out which language to use in different situations
+
+- They learn, for example, to ask their English-speaking mother for 'milk' and their Spanish-speaking grandmother for 'leche'
+
+- In the past few years we've seen some tragic cases in which people adopted babies from orphanages in Eastern Europe and found that, as they grew into childhood, they were handicapped in talking to their American mothers
+
+  + That wasn't a result of being confused by hearing a new language
+
+  + It happened because the orphanages were thinly staffed
+
+  + People watching the babies gave them minimal care and had little or no time to talk to them
+
+  + The babies were linguistically starved, and didn't have the verbal stimulation that leads to normal use of language
+
+  + Hearing talk, lots of talk, in infancy and later is healthy activity for the human brain, and that seems to be true no matter how many languages are involved
+
+- However it seems that there are cognitive advantages in training oneself to keep two or more languages separate
+
+  + A recent study found that brain regions important for fluent speech were better develoepd in bilingual speakers than they were in monolinguals, especially when two languages were learned early in life
+
+  + Here's why: When a bilingual child wants to express a word in one language, the brain also activates the corresponding word in the other language
+
+  + To prevent the word in the other language from being unintentionally spoken aloud, the brain has to suppress it
+
+  + By having to perform this kind of control, the developing bilingual brain gets a kind of exercise that the monolingual brain does not
+
+- To repeat, learning two languages at an early age is /good/ for the brain---and, you'll be interested to know, not just for learning to /talk/
+
+  + Studies at York University in Canada suggest that early bilinguals also have better cognitive control in certain types of /non/-verbal tasks
+
+  + And that was true not just for children but also for middle-aged and older adults
+
+  + Bilingualism seems to protect healthy older adults from some of the negative effects of aging on the brain
+
+  + That in itself is an excellent reason to be born into a bilingual family---or to start learning a second language while you're still in diapers
+
+** TSA Ch.10 Pragmatically Speaking
+
+#+begin_quote
+I am sitting with a philosopher in the garden; he says again and again "I know that's a tree," pointing to a tree that it is near us.
+Someone else arrives and hears this, and I tell them: "This fellow isn't insane. We are only doing philosophy."
+
+---Ludwig Wittegenstein
+#+end_quote
+
+- It is mainly philosophers, linguists, and other exotic breeds who are concerned with the literal meaning of simple statements
+
+  + Ordinary people are more interested, as the philosopher J. L. Austin put it, in "how to do things with words"
+
+- Austin pointed out that we can do a variety of things when we speak:
+
+  + Asserting
+
+  + Denying
+
+  + Questioning
+
+  + Requesting
+
+  + Promising
+
+  + Threatening
+
+  + Offering
+
+  + Wagering
+
+  + Thanking
+
+  + Apologizing
+
+  + Insulting
+
+  + Flattering
+
+  + Welcoming
+
+  + Congratulating
+
+  + Excommunicating
+
+  + Declaring war
+
+  + Christening
+
+  + Dismissing someone from a job
+
+  + In some cases we actually perform the act by speaking, as when you make a promise or when the judge sentences you to a spell in prison
+
+    - However, this act is valid only if certain conditions are met
+
+      + I cannot legitimately promise something that is beyond my capabilities to accomplish
+
+      + I cannot sentence you to prison unless I have been given that authority
+
+- Austin also pointed out that the linguistic form need not bear a direct relation to the purpose for which it is being used
+
+  + The obvious linguistic form for giving orders is the imperative (e.g., /Sit down!/) but speakers can use different ways of expressing a message:
+
+    a. Have you tidied your room yet?
+
+    b. This place really is untidy.
+
+    c. Can you tidy your room?
+
+    d. Would you mind tidying up a bit?
+
+    e. It's time to put this place straight.
+
+    f. Please tidy your room.
+
+    g. If you don't tidy your room, I'll...
+
+    h. Get this place tidied up.
+
+  + All these utterances can be used for the same purpose of getting you to tidy up your room
+
+  + They include statements, questions, and imperatives
+
+  + The form of the utterance may affect its politeness but the overall message remains the same
+
+- The same form can be used for different purposes
+
+  + If I say /The bull is about to charge/, I might only be making an uninvolved statement but I might otherwise be giving a warning
+
+  + Young children have difficulty with remarks such as /I'm sure the cat likes you pulling its tail/, which are meant ironically
+
+  + But even adults sometimes have difficulty with questions of the form /Why don't you tell him?/, which might simply be an inquiry about your reasons for not telling him but might also be a suggestion that you should tell him
+
+  + Once at a public talk the person next to me said, with a gesture to someone in the row in front, /Do you know who that is?/ I said /No, who is it?/, thinking I was about to be enlightened but it turned out to be a genuine query
+
+- The import of an utterance may not be established until the addressee has responded, as in the following examples:
+
+  #+begin_quote
+  A: Where are the reimbursement forms?
+
+  B: I'll get one for you.
+
+
+  A: Where are the reimbursement forms?
+
+  B: Over there in the corner.
+  #+end_quote
+
+  + In the first example, B treats A's utterance as a request for a form rather than as a request for information
+
+  + In the second, B treats A's utterance as a request for information
+
+  + It is not difficult to imagine that B in the first example feels more respectful or more friendly toward A than B in the second example
+
+  + This kind of exchange underlines the interactional nature of verbal communication and how it is not simply a matter of what the speaker says
+
+- Certain expressions cannot be fully interpreted without knowing who said them, where, and when
+
+  + Charles Fillmore once observed that the least informative message to find floating in a bottle on the ocean would be /Meet me here tomorrow at the same time with a stick this big/
+
+  + The expressions /me/, /here/, /tomorrow/, /the same time/, and /this/ all require reference to aspects of the situation in which the message was produced
+
+  + Such expressions are called /deictic/ elements, from the Greek word for pointing, because they all "point" to aspects of the situation
+
+- The essence of deictic elements is that they take their point of reference from the speaker (or writer)
+
+  + The referents of the first- and second-person pronouns /I/, /you/, and /we/ change with a change of speaker
+
+  + /Here/ and /this/ can be used for reference closer to the speaker in contrast to /there/ and /that
+
+  + Similarly, /come/ and /bring/ often refer to motion in the direction of the speaker in constrast to /go/ and /take/
+
+  + There are exceptions, however
+
+    - We may say /Can we come over?/ and /What can we bring?/ in both cases indicating movement in the direction of the hearer
+
+    - Other deictic elements with a spatial orientation are /on my left (right)/ and /facing me/ and so on
+
+    - Some deictic elements may take their reference from other than the speaker or the addressee
+
+    - /I took Mary home/ can mean either that I took her to my house or to hers
+
+  + There are also temporal deictic elements
+
+    - /Now/ takes its reference from the time of speaking (or writing) in contrast to /then/ as do /today/, /yesterday/, /a week ago/, /last year/, /next month/, and so on
+
+** TSA Ch.2 Learning One's First Language
+
+#+begin_quote
+"A child is a strange thing," said Cassius.... "It is a natural thing," said his wife.
+"That is why it strikes a civilised person as strange."
+
+---Ivy Compton-Burnett, /The Present and the Past/
+#+end_quote
+
+- Questions critical for anyone interested in language development:
+
+  + When we say that someone has learned a language, what has happened to that person?
+
+  + What has that individual done and what has been done to him or her?
+
+  + What has been learned and at what point can we say that the process is complete?
+
+  + What part do imitation and practice play in the learning process and what is the contribution of the environment?
+
+  + What is the importance of intelligence in language learning?
+
+  + Is there an age at which it is easier to learn a language and, if so, what is that age?
+
+  + Is there a difference between learning onee's first language and learning a second one?
+
+  + Why does anyone learn a language?
+
+- The ability to produce and understand utterances we have never heard before is sometimes referred to as /linguistic competence/
+
+- One way of looking at linguistic competence is to think of it as a set of rules
+
+  + Language is the prime example of human behavior that is both rule-governed and, at the same time, infinitely adaptable to new situations
+
+  + What does it mean to say that language is rule-governed?
+    Simply that it is systematic.
+
+  + Two simple examples may help illustrate this point:
+
+    - We are likely to find an utterance in an unfamiliar language difficult to repeat because we do not know the system by which it is organized
+
+    - The Simple Language Device has one very simple rule and only 80 words to produce sentences from yet it can produce 531,441 unique sentences
+
+  + It is emphasized that we can offer infants limited assistance in becoming fluent speakers, however well-meaning we may be
+
+  + It seems to be as natural for children to learn to speak as it is for birds to learn to sing
+
+** TSA Ch.3 The Act of Communicating
+
+#+begin_quote
+Language then has the strange striking characteristics of not having entities that are perceptible at the outset and yet of not permitting us to doubt that they exist and that their functioning constitutes it.
+
+---Ferdinand de Saussure, /Course in General Linguistics/
+#+end_quote
+
+- /Paralinguistic features/ refers to the aspects of communication involving how loudly or softly, how quickly or slowly, how hesitantly or fluently the noises are made
+
+- Sonds that are capable of indicating a difference of meaning are called /phonemes/
+
+  + E.g., French and Portuguese have nasal vowels---these vowels are phonemes in French and Portuguese
+
+  + However nasalized vowels are not phonemes in English; they are merely variants of the oral vowels
+
+  + Variants of phonemes are called /allophones/ and many phonemes have two or more allophones
+
+- Notation:
+
+  + Phonemes are denoted using slant lines (e.g., /t/)
+
+  + Allophones are denoted using square brackets (e.g., [t])
+
+- The phoneme /t/ in English has several allophones
+
+  + E.g., in the word /ton/ the /t/ is pronounced with a slight puff of air after it like a very lightly pronounced /h/.
+    This puff of air is called /aspiration/.
+
+  + The /t/ in the word /stun/ is not aspirated
+
+  + In general, the sounds /p/, /t/, and /k/ are aspirated at the beginning of words but not aspirated after the sound /s/
+
+- Another allophone of /t/ that has become increasingly common in speech of many inhabitants of British cities is the glottal stop, which is produced by a closure in the vocal cords rather than in the mouth
+
+  + This is often heard in American speech in the word /mountain/ and sometimes in /bottle/
+
+  + This is an allophone of /t/ in English, but in languages such as Arabic and Tagalog glottal stops are phonemic
+
+- Learning the phonemic distinctions of the other language is one of the most important tasks in trying to master a foreign language
+
+  + However, a "foreign accent" still lingers until the allophonic variants are mastered
+
+- At about six to eight weeks the infant usually has a small repertoire of calls that are often described as "cooing," perhaps because of the frequency of [u] sounds in these vocalizations
+
+  + These cooing sounds are apparently signs that the infant is comfortable
+
+- /Babbling/ is the state preceding language use in which the young child begins to use a wide variety of vocal noises similar to syllables in adult speech and often have an intonation pattern that sound like utterances in the adult language
+
+- Many of the combinations of sounds produced in babbling are similar to those the child uses early in linguistic development, particularly in the frequency of single consonant-vowel (CV) syllables
+
+- All languages have syllables consisting of a consonant followed by a vowel (CV) but some languages (such as Samoan) have only CV syllables
+
+  + English has syllables with up to three consonants before the vowel (/spring/) and up to four after it (/sixths/)
+
+  + It is not the case, however, that any three consonants can occur at the beginning of an English syllable
+
+  + As in so many other respects, there are rules and they are called /phonotactic rules/
+
+- If a word in English begins with three consonants, the first consonant must be /s/ and the second /p/, /t/, or /k/.
+  (Note that we are referring to sounds, not letters, so /k/ may be spelled with a /c/)
+  The third consonant will also be one of a set but the rule is slightly more complicated
+
+- /Stop consonants/ for example, [p], [b], [t], [d], [k], and [g], are produced by making a firm closure in the mouth that interrupts the air-stream coming from the lungs
+
+- /Fricatives/ for example, [s] and [z], are produced by bringing the tip of the tongue close to the roof of the mouth
+
+- /Voicing/ is the buzzing sound that distinguishes [z] from [s]
+
+- The difference between voiced and voiceless sounds is fundamental to human langauge
+
+* Week 5
+
+** 5Min Ch.15 (See week 4)
+** 5Min Ch.25 Can a threatened language be saved?
+
+#+begin_quote
+Can threatened or dying languages be revived?
+What skills and resources does language revitalization require?
+Is it worth the effort?
+#+end_quote
+
+- 'Exposure Problem': you can't learn a language if you don't hear it or see it
+
+- It took a long time for us to value sustaining languages, but in the past 20 years language revitalization has become an international movement
+
+** 5Min Ch.26 Why do American southerners talk that way?
+
+#+begin_quote
+Do all Southerners have the same dialect?
+What are the ingredients of the way they talk?
+Where did the speech of the Carolinas come from?
+#+end_quote
+
+- Why such diversity in dialects in the U.S.?
+
+  + 'Founder effect'---Groups of speakers came from different parts of the world and left their imprints on the speech of the region
+
+  + Cultural mix
+
+  + Home-grown speech
+
+** 5Min Ch.34 Can computers teach languages faster and better?
+
+#+begin_quote
+Can you converse with a machine?
+What technology exists to help people learn languages?
+#+end_quote
+
+- In Douglas Adams' /Hitchhiker's Guide to the Galaxy/ the Babelfish computer would translate all languages of the galaxy
+
+** 5Min Ch.36 Is there a language crisis in the United States?
+
+#+begin_quote
+What kind of foreign-language capabilities does America need?
+What gaps are there?
+What can be done?
+#+end_quote
+
+- Globalization of business has radically increased demand for people who can move information from one language to another
+
+- The /localization/ industry is a multi-billion dollar business
+
+- How's there a problem when thousandsd of kids are studying languages in high school and colleges every year?
+
+  1. America's schools and colleges rarely teach some of the world's most important languages
+
+  2. In terms of professionally usable skills, the output of America's education system is modest at best
+
+** TSA Ch.11 Theories of Language Development
+
+#+begin_quote
+The map appears to us more real than the land.
+
+--- D.H. Lawrence
+#+end_quote
+
+- The distinguished linguist James McCawley once remarked in a talk
+
+  #+begin_quote
+  When you hear a linguist use the word /theory/ you should put your hand on your wallet.
+  #+end_quote
+
+- The person responsible for stealing these wallets has been Noam Chomsky, whose theories of children's language development have spawned many rival versions
+
+- 50 years ago Chomsky attacked the then-current theories of children's language acquisition
+
+  + The prevailing view claimed that children learned by attempting to imitate the speech of adults and were reinforced to improve their early inadequate efforts by rewards and punishments
+
+  + Chomsky argued that there was no way that infants could develop language by this method since language is too complex for such an approach
+
+    - Instead, he argued that human beings are born with an innate knowledge of how language is structured and use this innate knowledge to work out how to acquire competence in the language to which they are exposed
+
+    - Chomsky initally called this innate knowledge a /language acquisition device/ (LAD) but latterly has referred to it as /universal grammar/ (UG)
+
+    - Central to this noion is the claim that all languages are basically the same, though they differ in many superficial characteristics
+
+- For almost 50 years now, Chomsky has been revising his theories of universal grammar and in the process has gained but also lost many supporters
+
+- Chomsky's influence on linguistics has been unfortunate for a number of reasons:
+
+  1. Chomsky vehemently rejects the notion that communication is central to the notion of language.
+     Chomsky's theory of language describes a system in the brain that cannot be studied directly but can only be inferred from external evidence.
+     This might not be a problem except that Chomsky has chosen to argue from invented complex examples of English that probably nobody has ever said and for which it is even hard to imagine a context in which they might be said.
+     At best, these examples illustrate the kind of knowledge that well-educated, literate adults may possess, but they do not exemplify the kind of language that is used in normal conversation or the kind of expressions that young children are exposed to at the time when they are developing their language skills.
+
+  2. Chomsky's influence is his view that language consists of a set of abstract structures that can be described in a quasi-mathematical notation.
+     There are certain advantages to such an approach if one is trying to characterize the complexity of human languages, but it always has to be stressed that such an approach is an idealization, not a description of any actual language.
+     Linguists who claim otherwise are the kind of wallet thieves that James McCawley warned against.
+     Too many investigations of children's language development in the Chomskyan paradigm have focused on the learning of abstract structures, as if that is what children are striving to do.
+
+  3. Approaching children's language development in this way is that many of the kinds of features that the investigator has wanted to study do not occur frequently in naturally occurring situations.
+
+** 5Min Ch.17 What's the right way to put words together?
+
+#+begin_quote
+Is there a 'right' way to use a language?
+What authority determines it?
+#+end_quote
+
+- Prescriptivists even want us to give up our native varieties; but we shouldn't let ourselves be bullied
+
+- Prescriptivism comes out of a desire for uniformity in behavior
+
+** 5Min Ch.22 What happens if you are raised without a language?
+
+#+begin_quote
+Are there really such beings as 'wolf children', raised without human contact?
+Can a person raised without language catch up?
+When is it too late?
+Is it worse to grow up without hearing or without language?
+#+end_quote
+
+- Genie was a powerful /non-verbal/ communicator, providing strong evidence that language is not the same as communication
+
+- Deaf people have it better than those who grow up without a language
+
+** 5Min Ch.23 Do deaf people everywhere use the same sign language?
+
+#+begin_quote
+Is sign language really a language?
+Can you use it no matter what country you go to?
+#+end_quote
+
+- Myths about sign language:
+
+  1. They aren't languages at all
+
+  2. It is a /universal/ language
+
+** TSA Ch.23 Learning a Second Language
+** 5Min Ch.31 How has our thinking about language learning changed through the years?
+
+#+begin_quote
+What'ss the history of foreign-language teaching?
+Have there been a lot of different methods?
+How different are they?
+Are today's methods best?
+#+end_quote
+
+- The first language taught to anyone in America was Algonquian---new arrivals from England learned native American languages to survive
+
+- Americans mostly studied how to read, not how to talk
+
+- World War II created huge demand for mass-production of /speakers/ of foreign languages
+
+** 5Min Ch.33 Is elementary school too early to teach foreign languages?
+
+#+begin_quote
+Is there any advantage to teaching languages in primary school?
+Is there a risk of overloading children's brains?
+Aren't other subjects more important at that age?
+#+end_quote
+
+- 'FLES' (Foreign Language in the Elementary School) or 'Early Language Learning'
+
+- Researchers found that the brain is most receptive to foreign language before the age of ten
+
+- Should we teach foreign languages in elementary school? YES!
+
+** 5Min Ch.52 How different are Spanish and Portuguese?
+
+#+begin_quote
+Are Spanish and Portuguese really dialects of the same language?
+What differences are there between them?
+How did they come about?
+#+end_quote
+
+- There are good reasons to learn Portuguese even if you already know Spanish
+
+* Week 6
+
+** 5Min Ch.16 Does our language influence the way we think?
+
+#+begin_quote
+How are language and thought related?
+Do you *think* the way you do because of the language you speak?
+What's the real story on Eskimo words for 'snow'?
+#+end_quote
+
+- It is not impossible that your view of the world may be influenced in some subtle ways by the way your native language tempts you to classify concepts; but that doesn't mean that your language defines a shell within which your thought is confined, or that there are untranslatable thoughts that only a speaker of some other language can have
+
+** TSA Ch.12 Variety
+
+#+begin_quote
+"It is called a tundish in Lower Drumcondra," said Stephen, laughing, "where they speak the best English"
+
+---James Joyce, /A Portrait of the Artist as a Young Man/
+#+end_quote
+
+- This chapter examines some of the group characteristics of speech, but first reviews the basic features of language
+
+- Primary purpose of language is communication
+
+  + Very few languages use an inventory of more than one hundred discrete units of sound
+
+  + Linguistically, it is impossible to draw a clear line between a /dialect/ and a /language/
+
+  + Tree diagram of a language
+
+    - /Regional differences/ (/Regional dialects/)
+
+    - /Social class differences/
+
+    - /Sex differences/
+
+    - /Age differences/
+
+    - /Speech versus writing/
+
+    - 3D box explanation:
+
+      + Dimension of /register/ refers to the encyclopedic knowledge represented in the speaker's vocabulary
+
+      + Dimension of /genre/ includes not only the obvious types such as narrative, sermon, conversation, and so forth, but also all types of written and spoken uses of language.
+
+      + Dimension of /style/ refers not only to differences of formality but what Dell Hymes has called "tone" (for example, jocularity versus seriousness, politness, sincerity, enthusiasm)
+
+** TSA Ch.13 Regional Dialects
+
+#+begin_quote
+I wouldn't like to have an English accent.
+I think it's a very daft one.
+They pronounce words correctly but they don't sound very nice.
+
+---Fifteen-year-old Glasgow schoolboy
+#+end_quote
+
+- Language is inherently heterogeneous (diverse, as opposed to homogeneous)
+
+- There are several sources of linguistic differences:
+
+  + Geography
+
+    - /Isogloss/: geographical boundary between linguistic features
+
+  + Morphology
+
+- There are many people who will insist that Standard English is the best possible form of English because it is
+
+  1. the most logical
+
+  2. the most regular
+
+  3. the most beautiful
+
+- Each of these views is questionable
+
+  1. languages are neither logical nor illogical, those the users of the language can be
+
+  2. those dialects in which the third-person singular /-s/ inflexion has been lost are more regular (in this respect) than Standard English
+
+  3. there is no objective criterion by which the beauty of a language can be measured
+
+** 5Min Ch.4 (See week 4)
+** 5Min Ch.30 What does it take to learn a language well?
+
+#+begin_quote
+Do you have to be clever to learn a new language?
+How long does it take to learn one well?
+Is 'total immersion' the only real way to do it?
+Are there any shortcuts?
+#+end_quote
+
+* Week 7
+
+** LippiGreen Ch.10 The real trouble with Black language
+
+#+begin_quote
+It is not the Black child's language which is despised: It is his experience.
+
+--- James Baldwin, "Nobody knows my name" (1985b)
+#+end_quote
+
+#+begin_quote
+A white face goes with a white mind.
+Occasionally a Black face goes with a white mind.
+Very seldom a white face will have a Black mind.
+
+--- Nikki Giovanni, attributed
+#+end_quote
+
+*** Grammar: resistance is futile
+
+- AAVE has been the focus of formal study for some 40 years
+
+- Distinguishing features of AAVE involve phonology and grammatical/syntactic structures
+
+- Even more important features are the prosodic and rhetorical features
+
+- Middle-class African Americans may seldom or never use grammatical features of AAVE, but such persons can stilll signal solidarity with the greater African American community by careful engagement of discourse strategies, intonation contour, and pitch
+
+*** Style, authenticity, and race
+
+- 1991, George Bush nominates Clarence Thomas, an African American jurist, into the Supreme Court
+
+  + Anita Hill, an African American law professor who worked under Thomas, came forward to charge him with sexual harrassment in the workplace
+
+  + Thomas won
+
+  + Hill had distinctly Anglo rhetorical devices
+
+  + Thomas had rhetorical advantage by capitalizing the African American Verbal Tradition, swaying Black opinion
+
+- Result of analysis of culturally specific rhetorical styles:
+
+  + even when no grammatrical, phonological or lexical features of AAVE are used, a person can, in effect, still be speaking AAVE
+
+*** Defying the definition
+
+- Stereotypes about AAVE speakers (e.g., that it's the language of poor people living in large cities) originate primarily through the information and entertainment industries
+
+- It has been established that AAVE has a rule-governed grammar
+
+- Linguists do have some responsibility for language-focused stereotypes, for the simple reason that for some 40 years, most of the scholarly work on AAVE has focused on the inner-city poor
+
+- To make up for a lop-sided picture of AAVE, linguists have been looking more closely at the wider African American community, most specifically at the middle classes
+
+- Theres a lot of regional and social variation in AAVE
+
+- Theres growing research on what Morgan and DeBerry claim is another dimension of variation within and between AAVE communities by looking at the way that African American youth active in Urban Hip Hop culture must choose among grammatical, lexical, and phonological variables which identify them as aligned with either the West or East coast
+
+*** Anglo attitudes toward AAVE
+
+- It's important to remember that for most Anglos, the primary and sometimes sole experience of African Americans comes through mass media
+
+- Anglos rarely hestitate when asked about opinions on AAVE.
+  Complaints tend to fall into two categories:
+
+  1. targeted lexical items or grammatical features which cause immediate reaction
+
+  2. general issues of language purity and authority
+
+- In their criticisms of AAVE, Anglos tend to focus on morphological markers (e.g., third person singular verb endings as in /she sit/, /he go/, /she say/, /he yell/, etc.)
+
+- AAVE seems to symbolize African American resistance to a cultural mainstreaming process which is seen as the logical and reasonable cost of equality -- and following from that, success -- in other realms
+
+- William Labov's extensive work on how to improve the lot of African American students demonstrates the disconnect between what he knows to be true and the common-sense arguments put forth by those who practice linguistic separatism
+
+- In a quote, he suggests:
+
+  1. Labov proposes that AAVE-speaking children shift toward other varieties of English as a first step toward better performance in school and an improvement in reading scores for the disempowered.
+     He sees this as an important and even primary goal.
+
+  2. What is needed to make this shift happen is early contact between AAVE speakers and speakers of other (unnamed) varieties of English
+
+  3. The result of early contact -- handled correctly -- would be true integration, in which the two groups really interact
+
+  4. True integration will bring about linguistic convergence and shift away from AAVE, which would be better than what is now happpening (the two varieties are becoming less alike)
+
+- Labov is wrong
+
+*** African America attitudes toward AAVE
+
+- It's hard to find any African American, regardless of profession, politics, or personal belief, who would deny the practical necessity of bidialectalism and selective assimilation to *SAE norms
+
+*** Where we at
+
+- The real trouble with Black English is not the verbal aspect system which distinguishes it from other varieties of U.S. English, or the rhetorical strategies which draw such a vivid contrast, it is simply this: AAVE is tangible and irrefutable evidence that there is a distinct, health, functioning African American culture which is not white, and which does not want to be white
+
+- The real problem with AAVE is a general unwillingness to accept the speakers of that language and the social choices they have made as viable and functional.
+  Instead we relegate their experiences and capabilities and most damaging, their potential to spheres which are secondary and out of the public eye
+
+* Week 9
+
+** TSA Ch.14 Social Class
+
+#+begin_quote
+Education is seldom obtained by stealth.
+Learning requires no small amount of wealth.
+
+--- William Telford
+#+end_quote
+
+- In past 30 years its shown that in socially stratified societies there are systematic differences in ways people from different backgrounds speak
+
+- Features of language that vary are /linguistic variables/
+
+- Bernstein suggested that working-class speakers were limited to what he caleld a /restricted code/ consisting of simple, often unfinished sentences and limited vocabulary
+
+- In contrast, middle-class speakers could also use an /elaborated code/, which employed more complex constructions and vocabulary
+
+* Week 10
+
+** TSA Ch.16 Register
+
+#+begin_quote
+All words have the "taste" of a profession, a genre, a tendency, a party, a particular work, a particular person, a generation, an age group, the day and hour.
+Each word taste of the context and contexts in which it has lived its socially charged life...
+
+--- Mikhail Bakhtin, /The Dialogic Imagination/
+#+end_quote
+
+- /Register/ refers to the form of language that is necessary for work and play
+
+- Registers are the one part of language development that is likely to continue throughout and individual's lifetime
+
+- /Slang/ is a form of language that consists of expressions used as a kind of ingroup language by some speakers to identify themselves with other speakers and to distance themselves from other speakers who do not use these forms
+
+** TSA Ch.17 Style
+
+#+begin_quote
+A man with whom, in private conversation, I am on the friendliest terms sometimes becomes a stranger to me when I hear him speak in public.
+
+--- Paul Valery, /Analects/
+#+end_quote
+
+- When the choice of a particular form among the alternatives is striking or immediately noticeable, it is often called the /marked/ form (in contrast to the neutral or unmarked form)
+
+- Delibrate use of marked forms is called /foregrounding/
+
+- Euphemisms are a mild form of foregrounding
+
+* Week 11
+
+** TSA Ch.15 Written Language
+
+#+begin_quote
+The notion of representing a sound by a graphic symbol is itself so stupefying a leap of the imagination that what is remarkable is not so much that it happened relatively late in human history, but that it happened at all.
+
+--- Jack Goody and Ian Watt /"The Consequences of Literacy"/
+#+end_quote
+
+- No way to determine origin of language
+
+- However, we do know written language only existed since 3000 years ago
+
+- Earliest writing systems involved pictures
+
+- Three kinds of writing systems:
+
+  + /logographic/ --- uses symbols that represent whole words (e.g., Chinese)
+
+  + /syllabic/ --- uses symbols for each syllable (e.g., Katakana)
+
+  + /alphabetic/ --- uses symbols for each sound
+
+- International Phonetic Alphabet (IPA) designed to address universally recognized symbols for sounds
+
+- Now we have normal orthography instead of IPA
+
+- /Phonemes/ are distinctive units of sound in a language
+
+- /Graphemes/ are distinctive units in a writing system
+
+- Economist Thorstein Veblen pointed out
+
+  #+begin_quote
+  As felicitous as instance of futile classicism as can well be found, outside of the Far East, is the conventional spelling of the English language.
+  A breach of the proprieties in spelling is extremely annoying and will discredit any writer in the eyes of all persons who are possessed of a developed sense of the true and the beautiful.
+  English orthography satisfies all the requirements of the canons of reputability under the law of conspicuous waste.
+  It is archaic, cumbrous, and ineffective; its acquisition consumes much time and effort; failure to acquire it is easy of detection.
+  Therefore it is the first and readiest test of reputability in learning, and conformity to its ritual is indispensable to a blameless scholastic life.
+  #+end_quote
+
+- Indeed English orthography takes time and effort to master
+
+- However, it is not ineffective
+
+- Advantages to English orthography
+
+  1. Easy to recognize words quickly and distinguish from homophones (words that sound the same), (e.g., /meet/, /meat/, /mete/)
+
+  2. Words that are morphologically related can be spelled to bring out similarities (e.g., /photograph/ and /photography/)
+
+  3. Normal orthography does not indicate the phonetic quality directly, the same spelling system can be used by people who speak very different dialects
+
+  4. Writings of the past look more familiar than if we changed to a new system
+
+- Knowing a language in a literate society is very different from knowing a language in a society where writing is unknown
+
+- Speech is always localized in time and space
+
+* Week 12
+
+** TSA Ch.25 Language Change
+
+#+begin_quote
+Progress is the mother of problems.
+
+--- G. K. Chesterton
+#+end_quote
+
+- One of the remarkable characteristics of language is the fact that it can be transmitted so effectively from one generation to another over centuries
+
+- Many dialect forms are conservative or relic forms; it is the standard language that has changed
+
+- Linguistic change is endemic, and any aspect of language can change
+
+- Principle of least effort/Laziness principle: factor in use of language cited as explanation of changes in pronunciation
+
+  + Leaving out a sound
+
+  + Assimilation: changing voiced sound [z] to the voiceless [s] after the voiceless [k]
+
+- Traces of sound preserved in English orthography
+
+- Great Vowel Shift: vowel system changed from 1400 to Shakespeare
+
+  + Stressed vowels become long vowels
+
+  + Dialect variation is not a recent phenomenon
+
+- Morphology change
+
+- Vocabulary change
+
+** TSA Ch.26 The History of English
+
+#+begin_quote
+[T]he past is the compost of the future and its scholars, humble but indispensable, are the earthworms, the scarabs, the moles, who recycle the past to make the present both interesting and possible.
+But the past is also an epitaph susceptible of infinite anagrams, a kaleidoscope that reveals a new pattern in every new historian.
+
+--- Dan Davin, /The Salamander and the Fire/
+#+end_quote
+
+- Some time between 6000 and 4000 BC there was spoken in the eastern part of what is now Europe a language that is thought to have been the ancestor of most (but not all) present-day European languages
+
+- Romans ruled England for four centuries but apparently were less successful in imposing their language than in other parts of Europe
+
+- Angles and Saxons brought to Britain a West Germanic language now known as Old English or Anglo-Saxon
+
+- Sometimes words have entered the language from different sources giving rise to what are called /doublets/, that is, words that have a common root though the words may have taken on quite distinct meanings in English
+
+  + shirt/skirt
+
+  + fragile/frail
+
+  + secure/sure
+
+  + pauper/poor
+
+  + count/compute
+
+  + hostel/hotel
+
+- Words can change their function
+
+** TSA Ch.27 Indo-European
+
+#+begin_quote
+[T]he most secure legacy of the Indo-Europeans is surely to be found in the language spoken by over two billion people in the world.
+It is irrelevant whether we regard ourselves as Europeans, Asians, Africans, or Americans, we cannot escape this legacy if we speak an Indo-European language.
+We cannot ask questions of where, when, who or how, or answer them with our most basic pronouns, we cannot count, refer to the basic parts of our bodies, describe our environment, the heavens, basic animals or relatives, or express our most fundamental acqtions, without making frequent recourse to an inherited system of speech that our linguistic ancestors shared 6000 years ago.
+
+--- J.P. Mallory, /In Search of the Indo-Europeans/
+#+end_quote
+
+- In 1776 Sir William Jones, the founder of the Royal Asiatic Society and the chief justice of India, gave a lecture in which he drew attention to certain similarities which he had noticed between Sanskrit and European languages:
+
+  + Sanskrit has wonderful nature
+
+    - More perfect than Greek
+
+    - More copius than Latin
+
+    - More exquisitely refined than either
+
+- Proto-Indo-European (PIE) language
+
+  + Germanic
+
+  + Italic
+
+  + Celtic
+
+  + Slavic
+
+  + Baltic
+
+  + Indian
+
+  + Iranian
+
+  + Albanian
+
+  + Armenian
+
+  + Greek
+
+- Equivalent words (cognates)
+
+* Week 13
+
+** TSA Ch.29 Language and Thought
+
+#+begin_quote
+The translatability of words or texts between two languages is not a matter of mere readjustment of verbal symbols.
+It must always be based on a unification of cultural context.
+Even when two cultures have much in common, real understanding and the establishment of a community of linguistic implements is always a matter of difficult, laborious, and delicate adjustment
+
+--- Bronislaw Malinowski, /Coral Gardens and Their Magic/
+#+end_quote
+
+- One of the most frequently cited passages on the relationship between language and thought is the following by the pioneering American linguistic Edward Sapir:
+
+  #+begin_quote
+  Human beings do not live in the objective world alone, nor in the world of social activity as ordinarily understood, but very much at the mercy of the particular language which has become the medium of expression for their society.
+  It is quite an illusion to imagine that one adjusts to reality essentially without the use of language and that language is merely an incidental means for solving specific problems of communication and reflection.
+  The fact of the matter is that the "real world" is to a large extent unconsciously built up on the language habits of the group.
+  No two languages are ever sufficiently similar to be considered as representing the same social reality.
+  #+end_quote
+
+- Sapir and his pupil Benjamin Lee Whorf investigated various aspects of the relationship between thought and language and developed what is sometimes called the *Linguistic Relativity Theory* and sometimes the Sapir/Whorf Hypothesis
+
+  + The claim, as the quotation from Sapir suggests, is that the way people perceive objects and conceive of the world around them is affected or even determined by the language that they speak
+
+  + This theory or hypothesis has been the subject of much debate
+
+  + The main point at issue is the question whether thinking is rigidly determined by language or strongly or weakly affected by it
+
+  + This in turn revolves around the question of which aspects of language could influence thought
+
+- The first is obviously vocabulary
+
+  + It is extremely difficult to imagine much abstract thinking going on without the words for concepts
+
+- A clear example is in medicine:
+
+  + When doctors diagnose a particular ailment in a patient, what they are doing is giving that condition a label
+
+  + A 19th-century doctor could not have diagnosed muscular dystrophy, legionnaire's disease, or AIDS, and might have given many conditions very different labels than modern doctors
+
+  + An even clearer example is mental health
+
+    - The conditions of schizophrenia, nervous breakdown, anorexia, and paranoia could not have been identified in these ways before the present century, althought the conditions probably occurred
+
+  + In connection with the last example, someone has pointed out that it is remarkable that we have a word for people who believe they are being persecuted when others around them do not think this is true, but we have no word for those who are in fact persecuting others without being aware of doing so
+
+  + If it is true that the latter condition is as common as the formed, this would be a good example of how the existence or lack of a word can affect our thinking
+
+- It isn't necessary to consider such elaborate examples
+
+  + Words have been borrowed into the English language from a variety of other languages
+
+  + It is not so important which language you speak but what you know and can speak about in your own language
+
+- The commonly cited example of the arbitrariness of language is in color terms
+
+  + It has been estimated that the human eye can discriminate seven and half million divisions of the color spectrum
+
+  + If the influence of language on thought is judged in terms of vocabulary, it is most likely to be important in the ways in which words can be used for rhetorical purposes
+
+- Whorf, however, argued that it is not vocabulary alone that is important
+
+  + He claimed that the speakers of a language are unconsciously influenced by the syntactic categories of the language
+
+  + Whorf argued that there was a connection between the attitude to time in Western society and the ways in which European languages such as English, French, and German indicate temporal differences
+
+    - He contrasted this with the structure of the Hopi language and the attitude of the Hopi to temporal events
+
+      + For example, he pointed out that words such as /lightning/, /wave/, and /puff of smoke/ are nouns in English, whereas the equivalents in Hopi are verbs
+
+  + Whorf drew attention to differences between Hopi and Western behavior that he claimed were related to these linguistic differences
+
+  + Whorf's general position:
+
+    #+begin_quote
+    We are inclined to think of language simply as a technique of expression, and not to realize that language first of all is a classification and arrangement of the stream of sensory experience which results in a certain world-order, a certain segment of the world that is easily expressible by the typ of symbolic means that language employs.
+    In other words, language does in a cruder but also in a broader and more versatile way the same thing that science does.
+    #+end_quote
+
+  + The crucial question is whether different "languages" affect the ways in which we behave or whether it is what we have learned in the language (including different "registers") that is critical
+
+  + In the previous chapter we saw examples of linguistic features such as evidentials, classifiers, and ergativity that are not found in English, for example
+
+    - Does this mean that the speakers of languages in which these features are found think differently from speakers of English?
+
+      + The answer often comes down to a question of translation
+
+- Is it ever possible to achieve successful translation from one language into another?
+
+  + Clearly, a number of factors are important:
+
+    1. Complexity of the message
+
+    2. Extent to which the speakers of the two languages share experience
+
+    3. Existence of technical terms in a language
+
+    4. What counts as success in translation?
+
+- All linguistic communication depends upon "translation"
+
+- The most obvious problem is the possibility of cultural differences
+
+- We do not know enough about how people think in any language to know what effect a particular language might have on that process
